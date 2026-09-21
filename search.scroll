@@ -15,7 +15,7 @@ container 1120px
 h1 Search all writing
 Search the full text of all posts.
 posts Posts
- select title titleLink text
+ select title titleLink year text
   printTable
 
 tableSearch
