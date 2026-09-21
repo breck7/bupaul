@@ -1,0 +1,31 @@
+importOnly
+baseUrl https://bupaulgraham.breck.lol/
+blog.parsers
+inlineMarkups
+ *
+ _
+ `
+metaTags
+favicon favicon.svg
+style.css
+
+Skip to content
+ link #main
+ addClass skip-link
+
+header
+ addClass site-header
+ div
+  addClass site-identity
+  buPaulGraham
+   index.html
+   addClass wordmark
+  this 3rd party backup made by @breckyunits
+   https://twitter.com/breckyunits @breckyunits
+   addClass site-description
+ nav
+  aria-label Main navigation
+  Search
+   search.html
+  Original site ↗
+   originalLink
