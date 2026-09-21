@@ -114,3 +114,14 @@ blogFormatLinksParser
  cue printFormatLinks
  javascript
   buildTxt() { return "" }
+
+// Do not expose the internal ordering date for essays without a stated date.
+blogPostsParser
+ extends scrollPostsParser
+ cue posts
+ javascript
+  postToRow(file) {
+   const row = super.postToRow(file)
+   if (file.file.scrollProgram.get("//") === "publicationLabel Date not stated") row.year = "Undated"
+   return row
+  }
