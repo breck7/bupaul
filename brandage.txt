@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 The Brand Age
 =============
 
@@ -235,8 +230,3 @@ Reprinted in Donzé, op cit.
 [16] Of course the first question one has on noticing a bubble is: will it burst? The reason ordinary bubbles eventually burst is that speculators get overoptimistic, but in this case the CEO of Patek Philippe controls the "money supply" and can thus take measures to cool down an overheated market. So there are probably only two things that could cause their specific bubble to burst: if his successor is not as capable, or if the whole custom of wearing mechanical watches goes away. The latter seems the greater danger. People aren't going to wear three things on their wrists, so all it would take is for there to be two popular devices that were worn on the wrist, and mechanical watches would start to be seen by the next cohort of young rich people as an old guy thing. It's hard to imagine a luxury watch brand surviving that.
 
 Thanks to Sam Altman, Bill Clerico, Daniel Gackle, Luis Garcia, the people at Goldammer, Jessica Livingston, Ben Miller, Robert Morris, John Reardon, D'Arcy Rice, Alex Tabarrok, and Garry Tan for reading drafts of this.
-
-HTML | TXT
- link brandage.html HTML
- link brandage.txt TXT
-View source

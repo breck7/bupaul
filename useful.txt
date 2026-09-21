@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 How to Write Usefully
 =====================
 
@@ -129,8 +124,3 @@ Notes
 [2] Even now I sometimes write essays that are not meant for publication. I wrote several to figure out what Y Combinator should do, and they were really helpful.
 
 Thanks to Trevor Blackwell, Daniel Gackle, Jessica Livingston, and Robert Morris for reading drafts of this.
-
-HTML | TXT
- link useful.html HTML
- link useful.txt TXT
-View source

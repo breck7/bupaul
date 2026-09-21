@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 If Lisp is So Great
 ===================
 
@@ -34,8 +29,3 @@ Popularity is always self-perpetuating, but it's especially so in programming la
 
 Indeed, if programming languages were all more or less equivalent, there would be little justification for using any but the most popular. But they aren't all equivalent, not by a long shot. And that's why less popular languages, like Jane Austen's novels, continue to survive at all. When everyone else is reading the latest John Grisham novel, there will always be a few people reading Jane Austen instead.
  https://bupaulgraham.breck.lol/icad.html aren't
-
-HTML | TXT
- link iflisp.html HTML
- link iflisp.txt TXT
-View source

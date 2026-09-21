@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 How to Start Google
 ===================
 
@@ -94,8 +89,3 @@ Notes
 [3] Strangely enough this is particularly true in countries like the US where undergraduate admissions are done badly. US admissions departments make applicants jump through a lot of arbitrary hoops that have little to do with their intellectual ability. But the more arbitrary a test, the more it becomes a test of mere determination and resourcefulness. And those are the two most important qualities in startup founders. So US admissions departments are better at selecting founders than they would be if they were better at selecting students.
 
 Thanks to Jared Friedman, Carolynn Levy, Jessica Livingston, Harj Taggar, and Garry Tan for reading drafts of this.
-
-HTML | TXT
- link google.html HTML
- link google.txt TXT
-View source

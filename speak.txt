@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Writing and Speaking
 ====================
 
@@ -43,8 +38,3 @@ Notes
 [4] For sufficiently small audiences, it may not be true that being part of an audience makes people dumber. The real decline seems to set in when the audience gets too big for the talk to feel like a conversation — maybe around 10 people.
 
 Thanks to Sam Altman and Robert Morris for reading drafts of this.
-
-HTML | TXT
- link speak.html HTML
- link speak.txt TXT
-View source

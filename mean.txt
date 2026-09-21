@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Mean People Fail
 ================
 
@@ -56,8 +51,3 @@ Notes
 In sufficiently disordered times, even thinking requires control of scarce resources, because living at all is a scarce resource.
 
 Thanks to Sam Altman, Ron Conway, Daniel Gackle, Jessica Livingston, Robert Morris, Geoff Ralston, and Fred Wilson for reading drafts of this.
-
-HTML | TXT
- link mean.html HTML
- link mean.txt TXT
-View source

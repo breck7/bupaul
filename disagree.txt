@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 How to Disagree
 ===============
 
@@ -107,8 +102,3 @@ If moving up the disagreement hierarchy makes people less mean, that will make m
 Thanks to Trevor Blackwell and Jessica Livingston for reading drafts of this.
 
 Related:
-
-HTML | TXT
- link disagree.html HTML
- link disagree.txt TXT
-View source

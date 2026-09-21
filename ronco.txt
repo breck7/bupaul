@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 The Ronco Principle
 ===================
 
@@ -44,8 +39,3 @@ Notes
 [2] Y Combinator in particular, because it aggregates data from so many startups, has a pretty comprehensive view of investor behavior.
 
 Thanks to Sam Altman and Jessica Livingston for reading drafts of this.
-
-HTML | TXT
- link ronco.html HTML
- link ronco.txt TXT
-View source

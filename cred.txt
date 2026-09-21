@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Coronavirus and Credibility
 ===========================
 
@@ -20,8 +15,3 @@ But epidemics are rare enough that these people clearly didn't realize this was 
 An event like this is thus a uniquely powerful way of taking people's measure. As Warren Buffett said, "It's only when the tide goes out that you learn who's been swimming naked." And the tide has just gone out like never before.
 
 Now that we've seen the results, let's remember what we saw, because this is the most accurate test of credibility we're ever likely to have. I hope.
-
-HTML | TXT
- link cred.html HTML
- link cred.txt TXT
-View source

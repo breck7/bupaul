@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Copy What You Like
 ==================
 
@@ -29,8 +24,3 @@ That was one of the most valuable things I learned from painting: you have to fi
 
 Comment on this essay.
  http://reddit.com/info/9bm4/comments Comment
-
-HTML | TXT
- link copy.html HTML
- link copy.txt TXT
-View source

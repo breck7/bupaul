@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Programming Bottom-Up
 =====================
 
@@ -34,8 +29,3 @@ New: Download On Lisp for Free.
 ---
 
 [1] "But no one can read the program without understanding all your new utilities." To see why such statements are usually mistaken, see Section 4.8.
-
-HTML | TXT
- link progbot.html HTML
- link progbot.txt TXT
-View source

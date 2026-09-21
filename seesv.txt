@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Where to See Silicon Valley
 ===========================
 
@@ -87,8 +82,3 @@ I skipped the Computer History Museum because this is a list of where to see the
  http://www.computerhistory.org/ Computer History Museum
 
 Thanks to Sam Altman, Paul Buchheit, Patrick Collison, and Jessica Livingston for reading drafts of this.
-
-HTML | TXT
- link seesv.html HTML
- link seesv.txt TXT
-View source

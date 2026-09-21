@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 How to Be an Angel Investor
 ===========================
 
@@ -163,8 +158,3 @@ An image in the original post is no longer available. Original image link ↗
  http://ycombinator.com/images/y18.gif Original image link ↗
 Comment on this essay.
  http://news.ycombinator.com/item?id=506671 Comment
-
-HTML | TXT
- link angelinvesting.html HTML
- link angelinvesting.txt TXT
-View source

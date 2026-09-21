@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Can You Buy a Silicon Valley?  Maybe.
 =====================================
 
@@ -100,8 +95,3 @@ Notes
 [4] Thanks to Michael Keenan for pointing this out.
 
 Thanks to Trevor Blackwell, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.
-
-HTML | TXT
- link maybe.html HTML
- link maybe.txt TXT
-View source

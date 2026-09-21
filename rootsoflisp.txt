@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 The Roots of Lisp
 =================
 
@@ -17,8 +12,3 @@ It's worth understanding what McCarthy discovered, not just as a landmark in the
  https://bupaulgraham.breck.lol/diff.html moving steadily
 
 In this article I'm going to try to explain in the simplest possible terms what McCarthy discovered. The point is not just to learn about an interesting theoretical result someone figured out forty years ago, but to show where languages are heading. The unusual thing about Lisp — in fact, the defining quality of Lisp — is that it can be written in itself. To understand what McCarthy meant by this, we're going to retrace his steps, with his mathematical notation translated into running Common Lisp code.
-
-HTML | TXT
- link rootsoflisp.html HTML
- link rootsoflisp.txt TXT
-View source

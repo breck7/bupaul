@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 See Randomness
 ==============
 
@@ -40,8 +35,3 @@ I say pick b. No one knows who said "never attribute to malice what can be expla
 Or better still, the positive version:
 
 > See randomness.
-
-HTML | TXT
- link randomness.html HTML
- link randomness.txt TXT
-View source

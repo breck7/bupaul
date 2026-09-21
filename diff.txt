@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 What Made Lisp Different
 ========================
 
@@ -62,8 +57,3 @@ Over time, the default language, embodied in a succession of popular languages, 
 
 Though useful to present-day programmers, it's strange to describe Lisp in terms of its variation from the random expedients other languages adopted. That was not, probably, how McCarthy thought of it. Lisp wasn't designed to fix the mistakes in Fortran; it came about more as the byproduct of an attempt to axiomatize computation.
  https://bupaulgraham.breck.lol/rootsoflisp.html axiomatize computation
-
-HTML | TXT
- link diff.html HTML
- link diff.txt TXT
-View source

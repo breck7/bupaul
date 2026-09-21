@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Ramen Profitable
 ================
 
@@ -84,8 +79,3 @@ Investors are one of the biggest sources of pain for founders; if they stopped c
 [3] It's conceivable that a startup could grow big by transforming consulting into a form that would scale. But if they did that they'd really be a product company.
 
 Thanks to Jessica Livingston for reading drafts of this.
-
-HTML | TXT
- link ramenprofitable.html HTML
- link ramenprofitable.txt TXT
-View source

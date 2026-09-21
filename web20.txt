@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Web 2.0
 =======
 
@@ -167,8 +162,3 @@ Notes
 [7] Microsoft didn't sue their customers directly, but they seem to have done all they could to help SCO sue them.
 
 Thanks to Trevor Blackwell, Sarah Harlin, Jessica Livingston, Peter Norvig, Aaron Swartz, and Jeff Weiner for reading drafts of this, and to the guys at O'Reilly and Adaptive Path for answering my questions.
-
-HTML | TXT
- link web20.html HTML
- link web20.txt TXT
-View source

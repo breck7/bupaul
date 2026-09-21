@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 What Languages Fix
 ==================
 
@@ -57,8 +52,3 @@ Python: Perl is a kludge.
 Ruby: Perl is a kludge, and Lisp syntax is scary.
 
 Prolog: Programming is not enough like logic.
-
-HTML | TXT
- link fix.html HTML
- link fix.txt TXT
-View source

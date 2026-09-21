@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Why to Not Not Start a Startup
 ==============================
 
@@ -265,8 +260,3 @@ An image in the original post is no longer available. Original image link ↗
  http://ycombinator.com/images/y18.gif Original image link ↗
 Comment on this essay.
  http://news.ycombinator.com/comments?id=6668 Comment
-
-HTML | TXT
- link notnot.html HTML
- link notnot.txt TXT
-View source

@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 A Plan for Spam
 ===============
 
@@ -186,8 +181,3 @@ You'll find this essay and 14 others in Hackers &amp; Painters.
  http://www.amazon.com/gp/product/0596006624 Hackers &amp; Painters
 
 More Info:
-
-HTML | TXT
- link spam.html HTML
- link spam.txt TXT
-View source

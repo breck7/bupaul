@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 The Venture Capital Squeeze
 ===========================
 
@@ -65,8 +60,3 @@ The angel investors who funded our startup let the founders sell some stock dire
 If VCs are frightened at the idea of letting founders partially cash out, let me tell them something still more frightening: you are now competing directly with Google.
 
 Thanks to Trevor Blackwell, Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this.
-
-HTML | TXT
- link vcsqueeze.html HTML
- link vcsqueeze.txt TXT
-View source

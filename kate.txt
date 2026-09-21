@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 What Kate Saw in Silicon Valley  
 =================================
 
@@ -68,8 +63,3 @@ Architects are constantly interacting face to face with other people, whereas do
 By inverting this list, we can get a portrait of the "normal" world. It's populated by people who talk a lot with one another as they work slowly but harmoniously on conservative, expensive projects whose destinations are decided in advance, and who carefully adjust their manner to reflect their position in the hierarchy.
 
 That's also a fairly accurate description of the past. So startup culture may not merely be different in the way you'd expect any subculture to be, but a leading indicator.
-
-HTML | TXT
- link kate.html HTML
- link kate.txt TXT
-View source

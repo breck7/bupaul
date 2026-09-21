@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 How to Present to Investors
 ===========================
 
@@ -156,8 +151,3 @@ In Hollywood, these phrases seem to be of the form "x meets y." In the startup w
 Find one and launch it clearly (but apparently casually) in your talk, preferably near the beginning.
 
 It's a good exercise for you, too, to sit down and try to figure out how to describe your startup in one compelling phrase. If you can't, your plans may not be sufficiently focused.
-
-HTML | TXT
- link investors.html HTML
- link investors.txt TXT
-View source

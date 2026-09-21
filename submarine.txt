@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 The Submarine
 =============
 
@@ -134,8 +129,3 @@ Actually no one knows how many computers the worm infected, because the remedy w
 Thanks to Ingrid Basset, Trevor Blackwell, Sarah Harlin, Jessica Livingston, Jackie McDonough, Robert Morris, and Aaron Swartz (who also found the PRSA article) for reading drafts of this.
 
 Correction: Earlier versions used a recent Business Week article mentioning del.icio.us as an example of a press hit, but Joshua Schachter tells me it was spontaneous.
-
-HTML | TXT
- link submarine.html HTML
- link submarine.txt TXT
-View source

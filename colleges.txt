@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 News from the Front
 ===================
 
@@ -80,8 +75,3 @@ Notes
  https://bupaulgraham.breck.lol/nerds.html high schools
 
 Thanks to Trevor Blackwell, Sarah Harlin, Jessica Livingston, Jackie McDonough, Peter Norvig, and Robert Morris for reading drafts of this.
-
-HTML | TXT
- link colleges.html HTML
- link colleges.txt TXT
-View source

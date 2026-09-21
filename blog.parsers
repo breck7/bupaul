@@ -99,6 +99,7 @@ viewSourceParser
  string text View source
  javascript
   get link() { return this.root.filename }
+  buildTxt() { return "" }
 
 // Preserve the source's actual publication-date precision.
 blogPrintDateParser
@@ -106,3 +107,10 @@ blogPrintDateParser
  cue printDate
  javascript
   get day() { return (this.root.get("//") || "").replace(/^publicationLabel /, "") }
+
+// Format navigation belongs to the HTML interface, not the essay export.
+blogFormatLinksParser
+ extends printFormatLinksParser
+ cue printFormatLinks
+ javascript
+  buildTxt() { return "" }

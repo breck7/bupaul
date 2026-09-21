@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Why Smart People Have Bad Ideas
 ===============================
 
@@ -151,8 +146,3 @@ Notes
  http://dogbert.abebooks.com/servlet/SearchResults?bx=on&sts=t&ds=30&bi=0&an=carnegie&kn=1938+OR+1939+OR+1940+OR+1941+OR+1942+OR+1943+OR+1944+OR+1945+OR+1946+OR+1947+OR+1948&tn=influence+friends&sortby=2 old
 
 Thanks to Bill Birch, Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.
-
-HTML | TXT
- link bronze.html HTML
- link bronze.txt TXT
-View source

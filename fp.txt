@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Fashionable Problems
 ====================
 
@@ -17,8 +12,3 @@ If you want to try working on unfashionable problems, one of the best places to 
 
 The best protection against getting drawn into working on the same things as everyone else may be to genuinely love what you're doing. Then you'll continue to work on it even if you make the same mistake as other people and think that it's too marginal to matter.
  https://bupaulgraham.breck.lol/genius.html genuinely love
-
-HTML | TXT
- link fp.html HTML
- link fp.txt TXT
-View source

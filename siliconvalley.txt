@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 How to Be Silicon Valley
 ========================
 
@@ -167,8 +162,3 @@ Thanks to Chris Anderson, Trevor Blackwell, Marc Hedlund, Jessica Livingston, Ro
 
 (The second part of this talk became Why Startups Condense in America.)
  https://bupaulgraham.breck.lol/america.html Why Startups Condense in America
-
-HTML | TXT
- link siliconvalley.html HTML
- link siliconvalley.txt TXT
-View source

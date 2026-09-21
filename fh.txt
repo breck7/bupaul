@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Haters
 ======
 
@@ -59,8 +54,3 @@ Notes
 [4] A competent hater will not merely attack you individually but will try to get mobs after you. In some cases you may want to refute whatever bogus claim they made in order to do so. But err on the side of not, because ultimately it probably won't matter.
 
 Thanks to Austen Allred, Trevor Blackwell, Patrick Collison, Christine Ford, Daniel Gackle, Jessica Livingston, Robert Morris, Elon Musk, Harj Taggar, and Peter Thiel for reading drafts of this.
-
-HTML | TXT
- link fh.html HTML
- link fh.txt TXT
-View source

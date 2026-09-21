@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Maker&#x27;s Schedule, Manager&#x27;s Schedule 
 ===============================================
 
@@ -49,8 +44,3 @@ Those of us on the maker's schedule are willing to compromise. We know we have t
 Thanks to Sam Altman, Trevor Blackwell, Paul Buchheit, Jessica Livingston, and Robert Morris for reading drafts of this.
 
 Related:
-
-HTML | TXT
- link makersschedule.html HTML
- link makersschedule.txt TXT
-View source

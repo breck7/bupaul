@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Design and Research
 ===================
 
@@ -88,8 +83,3 @@ Whatever the story is in the sciences, true collaboration seems to be vanishingl
 I'm inclined to think there isn't-- that good design requires a dictator. One reason is that good design has to be all of a piece. Design is not just for humans, but for individual humans. If a design represents an idea that fits in one person's head, then the idea will fit in the user's head too.
 
 Related:
-
-HTML | TXT
- link desres.html HTML
- link desres.txt TXT
-View source

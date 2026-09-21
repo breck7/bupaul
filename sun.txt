@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 General and Surprising
 ======================
 
@@ -24,8 +19,3 @@ And of course, ideas beget ideas. (That sounds familiar.) An idea with a small a
 It's not true that there's nothing new under the sun. There are some domains where there's almost nothing new. But there's a big difference between nothing and almost nothing, when it's multiplied by the area under the sun.
 
 Thanks to Sam Altman, Patrick Collison, and Jessica Livingston for reading drafts of this.
-
-HTML | TXT
- link sun.html HTML
- link sun.txt TXT
-View source

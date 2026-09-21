@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 What the Bubble Got Right
 =========================
 
@@ -172,8 +167,3 @@ Siegel, Jeremy J. "What Is an Asset Price Bubble? An Operational Definition." Eu
 [2] The number of users comes from a 6/03 Nielsen study quoted on Google's site. (You'd think they'd have something more recent.) The revenue estimate is based on revenues of $1.35 billion for the first half of 2004, as reported in their IPO filing.
 
 Thanks to Chris Anderson, Trevor Blackwell, Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this.
-
-HTML | TXT
- link bubble.html HTML
- link bubble.txt TXT
-View source

@@ -27,6 +27,10 @@ for file in ROOT.glob('*.html'):
         if fragment and (not target or target.endswith('.html')):
             other=BeautifulSoup((ROOT/target).read_text(),'html.parser') if target and (ROOT/target).exists() else page
             if not other.find(id=unquote(fragment)) and not other.find(attrs={'name':unquote(fragment)}):errors.append(f'Missing anchor {file.name}: {url}')
+# Navigation must stay in HTML without polluting Scroll's asTxt/search exports.
+for row in json.loads((ROOT/'search.json').read_text()):
+    for label in ('Skip to content', '← All writing', 'HTML | TXT', 'View source'):
+        if label in row['text']: errors.append(f"Navigation in search text: {row['title']}: {label}")
 archive=BeautifulSoup((ROOT/'index.html').read_text(),'html.parser')
 assert len(archive.select('.post-row'))==len(posts)
 print('\n'.join(errors[:80]))

@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Why YC
 ======
 
@@ -21,8 +16,3 @@ The real reason we started Y Combinator is one probably only a hacker would unde
  https://bupaulgraham.breck.lol/gba.html hacker
 
 In a way this is virtuous, because I think startups are a good thing. But really what motivates us is the completely amoral desire that would motivate any hacker who looked at some complex device and realized that with a tiny tweak he could make it run more efficiently. In this case, the device is the world's economy, which fortunately happens to be open source.
-
-HTML | TXT
- link whyyc.html HTML
- link whyyc.txt TXT
-View source

@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 The Python Paradox
 ==================
 
@@ -24,8 +19,3 @@ At the mention of ugly source code, people will of course think of Perl. But the
 
 So far, anyway. Both languages are of course moving targets. But they share, along with Ruby (and Icon, and Joy, and J, and Lisp, and Smalltalk) the fact that they're created by, and used by, people who really care about programming. And those tend to be the ones who do it well.
  https://bupaulgraham.breck.lol/hundred.html moving
-
-HTML | TXT
- link pypar.html HTML
- link pypar.txt TXT
-View source

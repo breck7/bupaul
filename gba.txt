@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 The Word &quot;Hacker&quot;
 ===========================
 
@@ -74,8 +69,3 @@ Thanks to Ken Anderson, Trevor Blackwell, Daniel Giffin, Sarah Harlin, Shiro Kaw
 
 (The image shows Steves Jobs and Wozniak with a "blue box." Photo by Margret Wozniak. Reproduced by permission of Steve Wozniak.)
  https://paulgraham.com/bluebox.html image
-
-HTML | TXT
- link gba.html HTML
- link gba.txt TXT
-View source

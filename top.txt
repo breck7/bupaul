@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 The Top Idea in Your Mind 
 ==========================
 
@@ -63,8 +58,3 @@ Notes
 [4] Letter to Oldenburg, quoted in Westfall, Richard, Life of Isaac Newton, p. 107.
 
 Thanks to Sam Altman, Patrick Collison, Jessica Livingston, and Robert Morris for reading drafts of this.
-
-HTML | TXT
- link top.html HTML
- link top.txt TXT
-View source

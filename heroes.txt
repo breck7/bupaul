@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Some Heroes
 ===========
 
@@ -133,8 +128,3 @@ To do really great things, you have to seek out questions people didn't even rea
 You only get one life. Why not do something huge? The phrase "paradigm shift" is overused now, but Kuhn was onto something. And you know more are out there, separated from us by what will later seem a surprisingly thin wall of laziness and stupidity. If we work like Newton.
 
 Thanks to Trevor Blackwell, Jessica Livingston, and Jackie McDonough for reading drafts of this.
-
-HTML | TXT
- link heroes.html HTML
- link heroes.txt TXT
-View source

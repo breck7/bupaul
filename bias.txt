@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 A Way to Detect Bias
 ====================
 
@@ -32,8 +27,3 @@ Notes
 [2] As Paul Buchheit points out, First Round excluded their most successful investment, Uber, from the study. And while it makes sense to exclude outliers from some types of studies, studies of returns from startup investing, which is all about hitting outliers, are not one of them.
 
 Thanks to Sam Altman, Jessica Livingston, and Geoff Ralston for reading drafts of this.
-
-HTML | TXT
- link bias.html HTML
- link bias.txt TXT
-View source

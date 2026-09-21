@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 How to Convert Between Wealth and Income Tax
 ============================================
 
@@ -44,8 +39,3 @@ Notes
 [3] You can deduct some state tax from your federal income taxes, but there's a cap on how much you can deduct, which means in the marginal case we simply add the two rates.
 
 Thanks to Trevor Blackwell, Jessica Livingston, Carolynn Levy, Jon Levy, Alex Tabarrok, and Harj Taggar for reading drafts of this.
-
-HTML | TXT
- link winc.html HTML
- link winc.txt TXT
-View source

@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Novelty and Heresy
 ==================
 
@@ -18,8 +13,3 @@ Every cherished mistaken assumption has a dead zone of unexplored ideas around i
 
 There is a positive side to this phenomenon though. If you're looking for new ideas, one way to find them is by looking for heresies. When you look at the question this way, the depressingly large dead zones around mistaken assumptions become excitingly large mines of new ideas.
  https://bupaulgraham.breck.lol/say.html looking for heresies
-
-HTML | TXT
- link nov.html HTML
- link nov.txt TXT
-View source

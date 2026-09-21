@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 The Pooled-Risk Company Management Company
 ==========================================
 
@@ -57,8 +52,3 @@ You can choose whichever revenue strategy you think is best for the type of comp
 David isn't mistaken in saying you should start a company to live off its revenues. The mistake is thinking this is somehow opposed to starting a company and selling it. In fact, for most people the latter is merely the optimal case of the former.
 
 Thanks to Trevor Blackwell, Jessica Livingston, Michael Mandel, Robert Morris, and Fred Wilson for reading drafts of this.
-
-HTML | TXT
- link prcmc.html HTML
- link prcmc.txt TXT
-View source

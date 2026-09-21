@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Donate Unrestricted
 ===================
 
@@ -28,8 +23,3 @@ Note
 [1] Unfortunately restricted donations tend to generate more publicity than unrestricted ones. "X donates money to build a school in Africa" is not only more interesting than "X donates money to Y nonprofit to spend as Y chooses," but also focuses more attention on X.
 
 Thanks to Chase Adam, Ingrid Bassett, Trevor Blackwell, and Edith Elliot for reading drafts of this.
-
-HTML | TXT
- link donate.html HTML
- link donate.txt TXT
-View source

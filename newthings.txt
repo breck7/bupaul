@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Six Principles for Making New Things
 ====================================
 
@@ -42,8 +37,3 @@ Reddit is a classic example of this approach. When Reddit first launched, it see
  http://reddit.com Reddit
 
 So when you look at something like Reddit and think "I wish I could think of an idea like that," remember: ideas like that are all around you. But you ignore them because they look wrong.
-
-HTML | TXT
- link newthings.html HTML
- link newthings.txt TXT
-View source

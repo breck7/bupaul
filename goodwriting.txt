@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Good Writing
 ============
 
@@ -62,8 +57,3 @@ Notes
 [3] Bizarrely enough, this happened in the writing of this very paragraph. An earlier version shared several phrases in common with the preceding paragraph, and the repetition bugged me each time I reread it. When I got annoyed enough to fix it, I discovered that the repetition reflected a problem in the underlying ideas, and I fixed both simultaneously.
 
 Thanks to Jessica Livingston and Courtenay Pipkin for reading drafts of this.
-
-HTML | TXT
- link goodwriting.html HTML
- link goodwriting.txt TXT
-View source

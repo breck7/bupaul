@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 The Bus Ticket Theory of Genius
 ===============================
 
@@ -114,8 +109,3 @@ Newton tripped over this distinction when he chose to work on theology. His beli
 
 Thanks to Marc Andreessen, Trevor Blackwell, Patrick Collison, Kevin Lacker, Jessica Livingston, Jackie McDonough, Robert Morris, Lisa Randall, Zak Stone, and my 7 year old for reading drafts of this.
  https://twitter.com/paulg/status/1196537802621669376 my 7 year old
-
-HTML | TXT
- link genius.html HTML
- link genius.txt TXT
-View source

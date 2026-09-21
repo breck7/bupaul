@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Billionaires Build
 ==================
 
@@ -117,8 +112,3 @@ Notes
 [4] Not these days, anyway. There were some big ones during the Internet Bubble, and indeed some big IPOs.
 
 Thanks to Trevor Blackwell, Jessica Livingston, Robert Morris, Geoff Ralston, and Harj Taggar for reading drafts of this.
-
-HTML | TXT
- link ace.html HTML
- link ace.txt TXT
-View source

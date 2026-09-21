@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Fierce Nerds
 ============
 
@@ -55,8 +50,3 @@ Notes
 So the worst-case scenario is someone who's both naturally bitter and extremely ambitious, and yet only moderately successful.
 
 Thanks to Trevor Blackwell, Steve Blank, Patrick Collison, Jessica Livingston, Amjad Masad, and Robert Morris for reading drafts of this.
-
-HTML | TXT
- link fn.html HTML
- link fn.txt TXT
-View source

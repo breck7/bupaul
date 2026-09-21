@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 This Year We Can End the Death Penalty in California
 ====================================================
 
@@ -24,8 +19,3 @@ A child could answer that one for you.
 This year, in California, you have a chance to end this, by voting yes on Proposition 62. But beware, because there is another proposition, Proposition 66, whose goal is to make it easier to execute people. So yes on 62, no on 66.
 
 It's time.
-
-HTML | TXT
- link prop62.html HTML
- link prop62.txt TXT
-View source

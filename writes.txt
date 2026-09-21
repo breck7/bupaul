@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Writes and Write-Nots
 =====================
 
@@ -37,8 +32,3 @@ This situation is not unprecedented. In preindustrial times most people's jobs m
 It will be the same with writing. There will still be smart people, but only those who choose to be.
 
 Thanks to Jessica Livingston, Ben Miller, and Robert Morris for reading drafts of this.
-
-HTML | TXT
- link writes.html HTML
- link writes.txt TXT
-View source

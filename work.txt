@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 What Doesn&#x27;t Seem Like Work?
 =================================
 
@@ -29,8 +24,3 @@ It seemed curious that the same task could be painful to one person and pleasant
  https://bupaulgraham.breck.lol/love.html figure it out
 
 Thanks to Sam Altman, Trevor Blackwell, Jessica Livingston, Robert Morris, and my father for reading drafts of this.
-
-HTML | TXT
- link work.html HTML
- link work.txt TXT
-View source

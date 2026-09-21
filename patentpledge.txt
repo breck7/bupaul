@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 The Patent Pledge
 =================
 
@@ -41,8 +36,3 @@ Notes:
 [1] Because the pledge is deliberately vague, we're going to need common sense when intepreting it. And even more vice versa: the pledge is vague in order to make people use common sense when interpreting it.
 
 So for example I've deliberately avoided saying whether the 25 people have to be employees, or whether contractors count too. If a company has to split hairs that fine about whether a suit would violate the patent pledge, it's probably still a dick move.
-
-HTML | TXT
- link patentpledge.html HTML
- link patentpledge.txt TXT
-View source

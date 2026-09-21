@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Alien Truth
 ===========
 
@@ -25,8 +20,3 @@ We may one day have something like alien life among us in the form of AIs. And t
 Whatever we call it, the attempt to discover alien truths would be a worthwhile undertaking. And curiously enough, that is itself probably an alien truth.
 
 Thanks to Trevor Blackwell, Greg Brockman, Patrick Collison, Robert Morris, and Michael Nielsen for reading drafts of this.
-
-HTML | TXT
- link alien.html HTML
- link alien.txt TXT
-View source

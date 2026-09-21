@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 A Unified Theory of VC Suckage
 ==============================
 
@@ -65,8 +60,3 @@ Notes
 No, we don't use Oracle. We just store the data in files. Our secret is to use an OS that doesn't lose our data. Which OS? FreeBSD. Why do you use that instead of Windows NT? Because it's better and it doesn't cost anything. What, you're using a freeware OS?
 
 How many times that conversation was repeated. Then when we got to Yahoo, we found they used FreeBSD and stored their data in files too.
-
-HTML | TXT
- link venturecapital.html HTML
- link venturecapital.txt TXT
-View source

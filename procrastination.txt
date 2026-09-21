@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Good and Bad Procrastination
 ============================
 
@@ -76,8 +71,3 @@ When I talk to people who've managed to make themselves work on big things, I fi
 I think the way to "solve" the problem of procrastination is to let delight pull you instead of making a to-do list push you. Work on an ambitious project you really enjoy, and sail as close to the wind as you can, and you'll leave the right things undone.
 
 Thanks to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.
-
-HTML | TXT
- link procrastination.html HTML
- link procrastination.txt TXT
-View source

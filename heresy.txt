@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Heresy
 ======
 
@@ -90,8 +85,3 @@ The superficial demands of orthodoxy make it an inexpensive substitute for virtu
 [6] People only have the luxury of ignoring the medical consensus about vaccines because vaccines have worked so well. If we didn't have any vaccines at all, the mortality rate would be so high that most current anti-vaxxers would be begging for them. And the situation with freedom of expression is similar. It's only because they live in a world created by the Enlightenment that kids from the suburbs can play at banning ideas.
 
 Thanks to Marc Andreessen, Chris Best, Trevor Blackwell, Nicholas Christakis, Daniel Gackle, Jonathan Haidt, Claire Lehmann, Jessica Livingston, Greg Lukianoff, Robert Morris, and Garry Tan for reading drafts of this.
-
-HTML | TXT
- link heresy.html HTML
- link heresy.txt TXT
-View source

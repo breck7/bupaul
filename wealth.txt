@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 How to Make Wealth
 ==================
 
@@ -304,8 +299,3 @@ What's the connection? None at all. Which is precisely my point. If you want to 
 
 Comment on this essay.
  http://reddit.com/info?id=20775 Comment
-
-HTML | TXT
- link wealth.html HTML
- link wealth.txt TXT
-View source

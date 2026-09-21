@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 How to Be an Expert in a Changing World
 =======================================
 
@@ -53,8 +48,3 @@ Notes
 [4] Though they are public and persist indefinitely, comments on e.g. forums and places like Twitter seem empirically to work like casual conversation. The threshold may be whether what you write has a title.
 
 Thanks to Sam Altman, Patrick Collison, and Robert Morris for reading drafts of this.
-
-HTML | TXT
- link ecw.html HTML
- link ecw.txt TXT
-View source

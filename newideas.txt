@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Crazy New Ideas
 ===============
 
@@ -62,8 +57,3 @@ Notes
 [5] Hall, Rupert. From Galileo to Newton. Collins, 1963. This book is particularly good at getting into contemporaries' heads.
 
 Thanks to Trevor Blackwell, Patrick Collison, Suhail Doshi, Daniel Gackle, Jessica Livingston, and Robert Morris for reading drafts of this.
-
-HTML | TXT
- link newideas.html HTML
- link newideas.txt TXT
-View source

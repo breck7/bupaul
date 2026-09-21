@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 How to Make Pittsburgh a Startup Hub
 ====================================
 
@@ -84,8 +79,3 @@ This is not a fast path to becoming a startup hub. But it is at least a path, wh
 And that's an encouraging thought. If Pittsburgh's path to becoming a startup hub is to be even more itself, then it has a good chance of succeeding. In fact it probably has the best chance of any city its size. It will take some effort, and a lot of time, but if any city can do it, Pittsburgh can.
 
 Thanks to Charlie Cheever and Jessica Livingston for reading drafts of this, and to Meg Cheever for organizing Opt412 and inviting me to speak.
-
-HTML | TXT
- link pgh.html HTML
- link pgh.txt TXT
-View source

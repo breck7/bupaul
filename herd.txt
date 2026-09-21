@@ -1,8 +1,3 @@
-Skip to content
- https://bupaulgraham.breck.lol/#main Skip to content
-
-← All writing
- https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
 Investor Herd Dynamics
 ======================
 
@@ -46,8 +41,3 @@ Notes
 [3] If an investor pushes you hard to tell them about your conversations with other investors, is this someone you want as an investor?
 
 Thanks to Paul Buchheit, Jessica Livingston, Geoff Ralston, and Garry Tan for reading drafts of this.
-
-HTML | TXT
- link herd.html HTML
- link herd.txt TXT
-View source
