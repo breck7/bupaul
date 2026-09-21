@@ -1,0 +1,23 @@
+title Search — buPaulGraham
+description Search the full text of Paul Graham's blog.
+permalink search.html
+canonicalUrl search.html
+buildHtml
+buildJson
+buildCsv
+_head.scroll
+
+container 1120px
+ tag main
+ id main
+ addClass search-page
+
+h1 Search all writing
+Search the full text of all posts.
+posts Posts
+ select title titleLink text
+  printTable
+
+tableSearch
+clearStack
+homeFooter.scroll

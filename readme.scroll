@@ -1,0 +1,49 @@
+title buPaulGraham — Archive
+description this 3rd party backup made by @breckyunits
+permalink index.html
+canonicalUrl https://paulgraham.com/
+buildHtml
+_head.scroll
+
+container 1120px
+ id main
+ role main
+ addClass archive
+
+# All posts: 2001 - 2026
+ id archive-heading
+
+label
+ addClass search
+ input
+  id search
+  type search
+  aria-label Filter titles
+  placeholder Filter titles…
+  autocomplete off
+ kbd /
+
+div
+ id search-status
+ addClass search-status
+ aria-live polite
+
+postsMeta Posts
+ orderBy -year -date
+  printArchive
+
+div
+ id empty
+ aria-live polite
+
+## Book excerpts
+
+Chapter 1 of ANSI Common Lisp
+ https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt
+
+Chapter 2 of ANSI Common Lisp
+ https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt
+
+clearStack
+homeFooter.scroll
+site.js

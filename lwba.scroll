@@ -1,0 +1,13 @@
+title Lisp for Web-Based Applications
+description After a link to Beating the Averages was posted on slashdot, some readers wanted to hear in more detail about the specific technical advantages we got from usin
+date 2001-04-01
+// publicationLabel April 2001
+canonicalUrl https://paulgraham.com/lwba.html
+
+post-header.scroll
+
+After a link to Beating the Averages was posted on slashdot, some readers wanted to hear in more detail about the specific technical advantages we got from using Lisp in Viaweb. For those who are interested, here are some excerpts from a talk I gave in April 2001 at BBN Labs in Cambridge, MA.
+ linkify false
+ avg.html Beating the Averages
+
+footer.scroll

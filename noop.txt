@@ -1,0 +1,26 @@
+Skip to content
+ https://bupaulgraham.breck.lol/#main Skip to content
+
+← All writing
+ https://bupaulgraham.breck.lol/index.html#archive-heading ← All writing
+Why Arc Isn&#x27;t Especially Object-Oriented
+=============================================
+
+There is a kind of mania for object-oriented programming at the moment, but some of the smartest programmers I know are some of the least excited about it.
+ https://paulgraham.com/reesoo.html smartest programmers
+
+My own feeling is that object-oriented programming is a useful technique in some cases, but it isn't something that has to pervade every program you write. You should be able to define new types, but you shouldn't have to express every program as the definition of new types.
+
+I think there are five reasons people like object-oriented programming, and three and a half of them are bad:
+
+1. Object-oriented programming is exciting if you have a statically-typed language without lexical closures or macros. To some degree, it offers a way around these limitations. (See Greenspun's Tenth Rule.)
+ https://paulgraham.com/quotes.html Greenspun's Tenth Rule
+
+I personally have never needed object-oriented abstractions. Common Lisp has an enormously powerful object system and I've never used it once. I've done a lot of things (e.g. making hash tables full of closures) that would have required object-oriented techniques to do in wimpier languages, but I have never had to use CLOS.
+
+Maybe I'm just stupid, or have worked on some limited subset of applications. There is a danger in designing a language based on one's own experience of programming. But it seems more dangerous to put stuff in that you've never needed because it's thought to be a good idea.
+
+HTML | TXT
+ link noop.html HTML
+ link noop.txt TXT
+View source

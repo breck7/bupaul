@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="utf-8">
+ <title>Why Arc Isn&#x27;t Especially Object-Oriented</title>
+ <script>/* This HTML was generated from noop.scroll by 📜 Scroll v180.0.1. https://scroll.surf */</script>
+ <style>@media print {.doNotPrint {display: none !important;}}</style>
+ <link rel="canonical" href="https://paulgraham.com/noop.html">
+ <meta name="viewport" content="width=device-width,initial-scale=1">
+ <meta name="description" content="There is a kind of mania for object-oriented programming at the moment, but some of the smartest programmers I know are some of the least excited about it. My o">
+ <meta name="keywords" content="Posts">
+ <meta name="generator" content="Scroll v180.0.1">
+ <meta property="og:title" content="Why Arc Isn&#x27;t Especially Object-Oriented">
+ <meta property="og:description" content="There is a kind of mania for object-oriented programming at the moment, but some of the smartest programmers I know are some of the least excited about it. My o">
+ <meta property="og:image" content="">
+ <link rel="icon" href="favicon.svg">
+ <link rel="source" type="application/git" title="Source Code Repository" href="noop.scroll">
+ 
+ <meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="style.css">
+<p id="particle15" class="skip-link"><a href="#main">Skip to content</a></p>
+<header id="particle17" class="site-header"><div id="particle1" class="site-identity"><p id="particle1" class="wordmark"><a href="index.html">buPaulGraham</a></p>
+<p id="particle2" class="site-description">this 3rd party backup made by <a href="https://twitter.com/breckyunits">@breckyunits</a></p></div>
+<nav id="particle2" aria-label="Main navigation" ><p id="particle1" class="scrollParagraph"><a href="search.html">Search</a></p>
+<p id="particle2" class="scrollParagraph"><a href="https://paulgraham.com/noop.html">Original site ↗</a></p></nav></header>
+<div id="particle20" class="article-header" style="width: 100%; box-sizing: border-box; max-width: 720px; margin: 0 auto;">
+<p id="particle21" class="back"><a href="index.html#archive-heading">← All writing</a></p>
+<div class="scrollSection"><h1 id="particle22" class="printTitleParser"><a href="noop.html">Why Arc Isn&#x27;t Especially Object-Oriented</a></h1>
+</div>
+</div>
+<div id="main" role="main" class="prose" style="width: 100%; box-sizing: border-box; max-width: 720px; margin: 0 auto;">
+<p id="particle28" class="scrollParagraph">There is a kind of mania for object-oriented programming at the moment, but some of the <a href="https://paulgraham.com/reesoo.html">smartest programmers</a> I know are some of the least excited about it.</p>
+<p id="particle30" class="scrollParagraph">My own feeling is that object-oriented programming is a useful technique in some cases, but it isn't something that has to pervade every program you write. You should be able to define new types, but you shouldn't have to express every program as the definition of new types.</p>
+<p id="particle32" class="scrollParagraph">I think there are five reasons people like object-oriented programming, and three and a half of them are bad:</p>
+<ol  start="1."><li id="particle34" >Object-oriented programming is exciting if you have a statically-typed language without lexical closures or macros. To some degree, it offers a way around these limitations. (See <a href="https://paulgraham.com/quotes.html">Greenspun's Tenth Rule</a>.)</li></ol>
+<li id="particle36" >Object-oriented programming is popular in big companies, because it suits the way they write software. At big companies, software tends to be written by large (and frequently changing) teams of mediocre programmers. Object-oriented programming imposes a discipline on these programmers that prevents any one of them from doing too much damage. The price is that the resulting code is bloated with protocols and full of duplication. This is not too high a price for big companies, because their software is probably going to be bloated and full of duplication anyway.</li>
+<li id="particle38" >Object-oriented programming generates a lot of what looks like work. Back in the days of fanfold, there was a type of programmer who would only put five or ten lines of code on a page, preceded by twenty lines of elaborately formatted comments. Object-oriented programming is like crack for these people: it lets you incorporate all this scaffolding right into your source code. Something that a Lisp hacker might handle by pushing a symbol onto a list becomes a whole file of classes and methods. So it is a good tool if you want to convince yourself, or someone else, that you are doing a lot of work.</li>
+<li id="particle40" >If a language is itself an object-oriented program, it can be extended by users. Well, maybe. Or maybe you can do even better by offering the sub-concepts of object-oriented programming a la carte. Overloading, for example, is not intrinsically tied to classes. We'll see.</li>
+<li id="particle42" >Object-oriented abstractions map neatly onto the domains of certain specific kinds of programs, like simulations and CAD systems.</li>
+<p id="particle44" class="scrollParagraph">I personally have never needed object-oriented abstractions. Common Lisp has an enormously powerful object system and I've never used it once. I've done a lot of things (e.g. making hash tables full of closures) that would have required object-oriented techniques to do in wimpier languages, but I have never had to use CLOS.</p>
+<p id="particle46" class="scrollParagraph">Maybe I'm just stupid, or have worked on some limited subset of applications. There is a danger in designing a language based on one's own experience of programming. But it seems more dangerous to put stuff in that you've never needed because it's thought to be a good idea.</p>
+</div>
+<div class="scrollKeyboardNav" style="display:none;"><a href="fix.html">fix.html</a> · noop.html · <a href="avg.html">avg.html</a><script>document.addEventListener('keydown', function(event) {
+  if (document.activeElement !== document.body) return
+  if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return // dont interfere with keyboard back button shortcut
+  const getLinks = () => document.getElementsByClassName("scrollKeyboardNav")[0].getElementsByTagName("a")
+  if (event.key === "ArrowLeft")
+    getLinks()[0].click()
+  else if (event.key === "ArrowRight")
+    getLinks()[1].click()
+ });</script></div>
+<p id="particle56" class="printDateParser"  class="printDateParser" style="text-align:center;;undefined;undefined;undefined"><a href="noop.html">HTML</a> | <a href="noop.txt">TXT</a></p>
+<div class="abstractTextLinkParser"><a href="noop.scroll">View source</a></div>
+<footer id="particle58" class="site-footer"><span id="particle1" >buPaulGraham</span>
+<p id="particle2" class="scrollParagraph">this 3rd party backup made by <a href="https://twitter.com/breckyunits">@breckyunits</a></p>
+<p id="particle3" class="scrollParagraph"><a href="https://paulgraham.com/noop.html">Original site ↗</a></p></footer>
+</body>
+</html>

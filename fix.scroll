@@ -1,0 +1,86 @@
+title What Languages Fix
+description Kevin Kelleher suggested an interesting way to compare programming languages: to describe each in terms of the problem it fixes. The surprising thing is how man
+date 2001-01-01
+// publicationLabel Date not stated
+canonicalUrl https://paulgraham.com/fix.html
+
+post-header.scroll
+
+Kevin Kelleher suggested an interesting way to compare programming languages: to describe each in terms of the problem it fixes. The surprising thing is how many, and how well, languages can be described this way.
+
+Algol: Assembly language is too low-level.
+ bold Algol:
+
+Pascal: Algol doesn't have enough data types.
+ bold Pascal:
+
+Modula: Pascal is too wimpy for systems programming.
+ bold Modula:
+
+Simula: Algol isn't good enough at simulations.
+ bold Simula:
+
+Smalltalk: Not everything in Simula is an object.
+ bold Smalltalk:
+
+Fortran: Assembly language is too low-level.
+ bold Fortran:
+
+Cobol: Fortran is scary.
+ bold Cobol:
+
+PL/1: Fortran doesn't have enough data types.
+ bold PL/1:
+
+Ada: Every existing language is missing something.
+ bold Ada:
+
+Basic: Fortran is scary.
+ bold Basic:
+
+APL: Fortran isn't good enough at manipulating arrays.
+ bold APL:
+
+J: APL requires its own character set.
+ bold J:
+
+C: Assembly language is too low-level.
+ bold C:
+
+C++: C is too low-level.
+ bold C++:
+
+Java: C++ is a kludge. And Microsoft is going to crush us.
+ bold Java:
+
+C#: Java is controlled by Sun.
+ bold C#:
+
+Lisp: Turing Machines are an awkward way to describe computation.
+ bold Lisp:
+
+Scheme: MacLisp is a kludge.
+ bold Scheme:
+
+T: Scheme has no libraries.
+ bold T:
+
+Common Lisp: There are too many dialects of Lisp.
+ bold Common Lisp:
+
+Dylan: Scheme has no libraries, and Lisp syntax is scary.
+ bold Dylan:
+
+Perl: Shell scripts/awk/sed are not enough like programming languages.
+ bold Perl:
+
+Python: Perl is a kludge.
+ bold Python:
+
+Ruby: Perl is a kludge, and Lisp syntax is scary.
+ bold Ruby:
+
+Prolog: Programming is not enough like logic.
+ bold Prolog:
+
+footer.scroll
