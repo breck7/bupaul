@@ -1,5 +1,6 @@
 importOnly
 baseUrl https://bupaulgraham.breck.lol/
+openGraphImage bupaulgraham-poster.jpg
 blog.parsers
 inlineMarkups
  *

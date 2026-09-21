@@ -12,7 +12,7 @@
  <meta name="generator" content="Scroll v180.0.1">
  <meta property="og:title" content="The Roots of Lisp">
  <meta property="og:description" content="May 2001 (I wrote this article to help myself understand exactly what McCarthy discovered. You don&#x27;t need to know this stuff to program in Lisp, but it should b">
- <meta property="og:image" content="">
+ <meta property="og:image" content="https://bupaulgraham.breck.lol/bupaulgraham-poster.jpg">
  <link rel="icon" href="favicon.svg">
  <link rel="source" type="application/git" title="Source Code Repository" href="rootsoflisp.scroll">
  
@@ -20,22 +20,22 @@
 </head>
 <body>
 <link rel="stylesheet" type="text/css" href="style.css">
-<p id="particle15" class="skip-link"><a href="#main">Skip to content</a></p>
-<header id="particle17" class="site-header"><div id="particle1" class="site-identity"><p id="particle1" class="wordmark"><a href="index.html">buPaulGraham</a></p>
+<p id="particle16" class="skip-link"><a href="#main">Skip to content</a></p>
+<header id="particle18" class="site-header"><div id="particle1" class="site-identity"><p id="particle1" class="wordmark"><a href="index.html">buPaulGraham</a></p>
 <p id="particle2" class="site-description">this 3rd party backup made by <a href="https://twitter.com/breckyunits">@breckyunits</a></p></div>
 <nav id="particle2" aria-label="Main navigation" ><p id="particle1" class="scrollParagraph"><a href="search.html">Search</a></p>
 <p id="particle2" class="scrollParagraph"><a href="https://paulgraham.com/rootsoflisp.html">Original site ↗</a></p></nav></header>
-<div id="particle20" class="article-header" style="width: 100%; box-sizing: border-box; max-width: 720px; margin: 0 auto;">
-<p id="particle21" class="back"><a href="index.html#archive-heading">← All writing</a></p>
-<div class="scrollSection"><h1 id="particle22" class="printTitleParser"><a href="rootsoflisp.html">The Roots of Lisp</a></h1>
+<div id="particle21" class="article-header" style="width: 100%; box-sizing: border-box; max-width: 720px; margin: 0 auto;">
+<p id="particle22" class="back"><a href="index.html#archive-heading">← All writing</a></p>
+<div class="scrollSection"><h1 id="particle23" class="printTitleParser"><a href="rootsoflisp.html">The Roots of Lisp</a></h1>
 </div>
 </div>
 <div id="main" role="main" class="prose" style="width: 100%; box-sizing: border-box; max-width: 720px; margin: 0 auto;">
-<p id="particle28" class="scrollParagraph">May 2001</p>
-<p id="particle30" class="scrollParagraph"><i>(I wrote this article to help myself understand exactly what McCarthy discovered. You don't need to know this stuff to program in Lisp, but it should be helpful to anyone who wants to understand the essence of Lisp — both in the sense of its origins and its semantic core. The fact that it has such a core is one of Lisp's distinguishing features, and the reason why, unlike other languages, Lisp has dialects.)</i></p>
-<p id="particle32" class="scrollParagraph">In 1960, <a href="http://www-formal.stanford.edu/jmc/index.html">John McCarthy</a> published a remarkable paper in which he did for programming something like what Euclid did for geometry. He showed how, given a handful of simple operators and a notation for functions, you can build a whole programming language. He called this language Lisp, for "List Processing," because one of his key ideas was to use a simple data structure called a <i>list</i> for both code and data.</p>
-<p id="particle34" class="scrollParagraph">It's worth understanding what McCarthy discovered, not just as a landmark in the history of computers, but as a model for what programming is tending to become in our own time. It seems to me that there have been two really clean, consistent models of programming so far: the C model and the Lisp model. These two seem points of high ground, with swampy lowlands between them. As computers have grown more powerful, the new languages being developed have been <a href="diff.html">moving steadily</a> toward the Lisp model. A popular recipe for new programming languages in the past 20 years has been to take the C model of computing and add to it, piecemeal, parts taken from the Lisp model, like runtime typing and garbage collection.</p>
-<p id="particle36" class="scrollParagraph">In this article I'm going to try to explain in the simplest possible terms what McCarthy discovered. The point is not just to learn about an interesting theoretical result someone figured out forty years ago, but to show where languages are heading. The unusual thing about Lisp — in fact, the defining quality of Lisp — is that it can be written in itself. To understand what McCarthy meant by this, we're going to retrace his steps, with his mathematical notation translated into running Common Lisp code.</p>
+<p id="particle29" class="scrollParagraph">May 2001</p>
+<p id="particle31" class="scrollParagraph"><i>(I wrote this article to help myself understand exactly what McCarthy discovered. You don't need to know this stuff to program in Lisp, but it should be helpful to anyone who wants to understand the essence of Lisp — both in the sense of its origins and its semantic core. The fact that it has such a core is one of Lisp's distinguishing features, and the reason why, unlike other languages, Lisp has dialects.)</i></p>
+<p id="particle33" class="scrollParagraph">In 1960, <a href="http://www-formal.stanford.edu/jmc/index.html">John McCarthy</a> published a remarkable paper in which he did for programming something like what Euclid did for geometry. He showed how, given a handful of simple operators and a notation for functions, you can build a whole programming language. He called this language Lisp, for "List Processing," because one of his key ideas was to use a simple data structure called a <i>list</i> for both code and data.</p>
+<p id="particle35" class="scrollParagraph">It's worth understanding what McCarthy discovered, not just as a landmark in the history of computers, but as a model for what programming is tending to become in our own time. It seems to me that there have been two really clean, consistent models of programming so far: the C model and the Lisp model. These two seem points of high ground, with swampy lowlands between them. As computers have grown more powerful, the new languages being developed have been <a href="diff.html">moving steadily</a> toward the Lisp model. A popular recipe for new programming languages in the past 20 years has been to take the C model of computing and add to it, piecemeal, parts taken from the Lisp model, like runtime typing and garbage collection.</p>
+<p id="particle37" class="scrollParagraph">In this article I'm going to try to explain in the simplest possible terms what McCarthy discovered. The point is not just to learn about an interesting theoretical result someone figured out forty years ago, but to show where languages are heading. The unusual thing about Lisp — in fact, the defining quality of Lisp — is that it can be written in itself. To understand what McCarthy meant by this, we're going to retrace his steps, with his mathematical notation translated into running Common Lisp code.</p>
 </div>
 <div class="scrollKeyboardNav" style="display:none;"><a href="popular.html">popular.html</a> · rootsoflisp.html · <a href="road.html">road.html</a><script>document.addEventListener('keydown', function(event) {
   if (document.activeElement !== document.body) return
@@ -46,9 +46,9 @@
   else if (event.key === "ArrowRight")
     getLinks()[1].click()
  });</script></div>
-<p id="particle46" class="printDateParser"  class="printDateParser" style="text-align:center;;undefined;undefined;undefined"><a href="rootsoflisp.html">HTML</a> | <a href="rootsoflisp.txt">TXT</a></p>
+<p id="particle47" class="printDateParser"  class="printDateParser" style="text-align:center;;undefined;undefined;undefined"><a href="rootsoflisp.html">HTML</a> | <a href="rootsoflisp.txt">TXT</a></p>
 <div class="abstractTextLinkParser"><a href="rootsoflisp.scroll">View source</a></div>
-<footer id="particle48" class="site-footer"><span id="particle1" >buPaulGraham</span>
+<footer id="particle49" class="site-footer"><span id="particle1" >buPaulGraham</span>
 <p id="particle2" class="scrollParagraph">this 3rd party backup made by <a href="https://twitter.com/breckyunits">@breckyunits</a></p>
 <p id="particle3" class="scrollParagraph"><a href="https://paulgraham.com/rootsoflisp.html">Original site ↗</a></p></footer>
 </body>

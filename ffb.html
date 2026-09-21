@@ -12,7 +12,7 @@
  <meta name="generator" content="Scroll v180.0.1">
  <meta property="og:title" content="Filters that Fight Back">
  <meta property="og:description" content="August 2003 We may be able to improve the accuracy of Bayesian spam filters by having them follow links to see what&#x27;s waiting at the other end. Richard Jowsey o">
- <meta property="og:image" content="">
+ <meta property="og:image" content="https://bupaulgraham.breck.lol/bupaulgraham-poster.jpg">
  <link rel="icon" href="favicon.svg">
  <link rel="source" type="application/git" title="Source Code Repository" href="ffb.scroll">
  
@@ -20,37 +20,37 @@
 </head>
 <body>
 <link rel="stylesheet" type="text/css" href="style.css">
-<p id="particle15" class="skip-link"><a href="#main">Skip to content</a></p>
-<header id="particle17" class="site-header"><div id="particle1" class="site-identity"><p id="particle1" class="wordmark"><a href="index.html">buPaulGraham</a></p>
+<p id="particle16" class="skip-link"><a href="#main">Skip to content</a></p>
+<header id="particle18" class="site-header"><div id="particle1" class="site-identity"><p id="particle1" class="wordmark"><a href="index.html">buPaulGraham</a></p>
 <p id="particle2" class="site-description">this 3rd party backup made by <a href="https://twitter.com/breckyunits">@breckyunits</a></p></div>
 <nav id="particle2" aria-label="Main navigation" ><p id="particle1" class="scrollParagraph"><a href="search.html">Search</a></p>
 <p id="particle2" class="scrollParagraph"><a href="https://paulgraham.com/ffb.html">Original site ↗</a></p></nav></header>
-<div id="particle20" class="article-header" style="width: 100%; box-sizing: border-box; max-width: 720px; margin: 0 auto;">
-<p id="particle21" class="back"><a href="index.html#archive-heading">← All writing</a></p>
-<div class="scrollSection"><h1 id="particle22" class="printTitleParser"><a href="ffb.html">Filters that Fight Back</a></h1>
+<div id="particle21" class="article-header" style="width: 100%; box-sizing: border-box; max-width: 720px; margin: 0 auto;">
+<p id="particle22" class="back"><a href="index.html#archive-heading">← All writing</a></p>
+<div class="scrollSection"><h1 id="particle23" class="printTitleParser"><a href="ffb.html">Filters that Fight Back</a></h1>
 </div>
 </div>
 <div id="main" role="main" class="prose" style="width: 100%; box-sizing: border-box; max-width: 720px; margin: 0 auto;">
-<p id="particle28" class="scrollParagraph">August 2003</p>
-<p id="particle30" class="scrollParagraph">We may be able to improve the accuracy of Bayesian spam filters by having them follow links to see what's waiting at the other end. Richard Jowsey of <a href="http://death2spam.com">death2spam</a> now does this in borderline cases, and reports that it works well.</p>
-<p id="particle32" class="scrollParagraph">Why only do it in borderline cases? And why only do it once?</p>
-<p id="particle34" class="scrollParagraph">As I mentioned in <a href="https://paulgraham.com/wfks.html">Will Filters Kill Spam?</a>, following all the urls in a spam would have an amusing side-effect. If popular email clients did this in order to filter spam, the spammer's servers would take a serious pounding. The more I think about this, the better an idea it seems. This isn't just amusing; it would be hard to imagine a more perfectly targeted counterattack on spammers.</p>
-<p id="particle36" class="scrollParagraph">So I'd like to suggest an additional feature to those working on spam filters: a "punish" mode which, if turned on, would spider every url in a suspected spam n times, where n could be set by the user. [1]</p>
-<p id="particle38" class="scrollParagraph">As many people have noted, one of the problems with the current email system is that it's too passive. It does whatever you tell it. So far all the suggestions for fixing the problem seem to involve new protocols. This one wouldn't.</p>
-<p id="particle40" class="scrollParagraph">If widely used, auto-retrieving spam filters would make the email system <i>rebound.</i> The huge volume of the spam, which has so far worked in the spammer's favor, would now work against him, like a branch snapping back in his face. Auto-retrieving spam filters would drive the spammer's <a href="http://www.bork.ca/pics/?path=incoming&img=bill.jpg">costs</a> up, and his sales down: his bandwidth usage would go through the roof, and his servers would grind to a halt under the load, which would make them unavailable to the people who would have responded to the spam.</p>
-<p id="particle42" class="scrollParagraph">Pump out a million emails an hour, get a million hits an hour on your servers.</p>
-<p id="particle44" class="scrollParagraph">We would want to ensure that this is only done to suspected spams. As a rule, any url sent to millions of people is likely to be a spam url, so submitting every http request in every email would work fine nearly all the time. But there are a few cases where this isn't true: the urls at the bottom of mails sent from free email services like Yahoo Mail and Hotmail, for example.</p>
-<p id="particle46" class="scrollParagraph">To protect such sites, and to prevent abuse, auto-retrieval should be combined with blacklists of spamvertised sites. Only sites on a blacklist would get crawled, and sites would be blacklisted only after being inspected by humans. The lifetime of a spam must be several hours at least, so it should be easy to update such a list in time to interfere with a spam promoting a new site. [2]</p>
-<p id="particle48" class="scrollParagraph">High-volume auto-retrieval would only be practical for users on high-bandwidth connections, but there are enough of those to cause spammers serious trouble. Indeed, this solution neatly mirrors the problem. The problem with spam is that in order to reach a few gullible people the spammer sends mail to everyone. The non-gullible recipients are merely collateral damage. But the non-gullible majority won't stop getting spam until they can stop (or threaten to stop) the gullible from responding to it. Auto-retrieving spam filters offer them a way to do this.</p>
-<p id="particle50" class="scrollParagraph">Would that kill spam? Not quite. The biggest spammers could probably protect their servers against auto-retrieving filters. However, the easiest and cheapest way for them to do it would be to include working unsubscribe links in their mails. And this would be a necessity for smaller fry, and for "legitimate" sites that hired spammers to promote them. So if auto-retrieving filters became widespread, they'd become auto-unsubscribing filters.</p>
-<p id="particle52" class="scrollParagraph">In this scenario, spam would, like OS crashes, viruses, and popups, become one of those plagues that only afflict people who don't bother to use the right software.</p>
-<p id="particle54" class="scrollParagraph"><b>Notes</b></p>
-<p id="particle56" class="scrollParagraph">[1] Auto-retrieving filters will have to follow redirects, and should in some cases (e.g. a page that just says "click here") follow more than one level of links. Make sure too that the http requests are indistinguishable from those of popular Web browsers, including the order and referrer.</p>
-<p id="particle58" class="scrollParagraph">If the response doesn't come back within x amount of time, default to some fairly high spam probability.</p>
-<p id="particle60" class="scrollParagraph">Instead of making n constant, it might be a good idea to make it a function of the number of spams that have been seen mentioning the site. This would add a further level of protection against abuse and accidents.</p>
-<p id="particle62" class="scrollParagraph">[2] The original version of this article used the term "whitelist" instead of "blacklist". Though they were to work like blacklists, I preferred to call them whitelists because it might make them less vulnerable to legal attack. This just seems to have confused readers, though.</p>
-<p id="particle64" class="scrollParagraph">There should probably be multiple blacklists. A single point of failure would be vulnerable both to attack and abuse.</p>
-<p id="particle66" class="scrollParagraph"><b>Thanks</b> to Brian Burton, Bill Yerazunis, Dan Giffin, Eric Raymond, and Richard Jowsey for reading drafts of this.</p>
+<p id="particle29" class="scrollParagraph">August 2003</p>
+<p id="particle31" class="scrollParagraph">We may be able to improve the accuracy of Bayesian spam filters by having them follow links to see what's waiting at the other end. Richard Jowsey of <a href="http://death2spam.com">death2spam</a> now does this in borderline cases, and reports that it works well.</p>
+<p id="particle33" class="scrollParagraph">Why only do it in borderline cases? And why only do it once?</p>
+<p id="particle35" class="scrollParagraph">As I mentioned in <a href="https://paulgraham.com/wfks.html">Will Filters Kill Spam?</a>, following all the urls in a spam would have an amusing side-effect. If popular email clients did this in order to filter spam, the spammer's servers would take a serious pounding. The more I think about this, the better an idea it seems. This isn't just amusing; it would be hard to imagine a more perfectly targeted counterattack on spammers.</p>
+<p id="particle37" class="scrollParagraph">So I'd like to suggest an additional feature to those working on spam filters: a "punish" mode which, if turned on, would spider every url in a suspected spam n times, where n could be set by the user. [1]</p>
+<p id="particle39" class="scrollParagraph">As many people have noted, one of the problems with the current email system is that it's too passive. It does whatever you tell it. So far all the suggestions for fixing the problem seem to involve new protocols. This one wouldn't.</p>
+<p id="particle41" class="scrollParagraph">If widely used, auto-retrieving spam filters would make the email system <i>rebound.</i> The huge volume of the spam, which has so far worked in the spammer's favor, would now work against him, like a branch snapping back in his face. Auto-retrieving spam filters would drive the spammer's <a href="http://www.bork.ca/pics/?path=incoming&img=bill.jpg">costs</a> up, and his sales down: his bandwidth usage would go through the roof, and his servers would grind to a halt under the load, which would make them unavailable to the people who would have responded to the spam.</p>
+<p id="particle43" class="scrollParagraph">Pump out a million emails an hour, get a million hits an hour on your servers.</p>
+<p id="particle45" class="scrollParagraph">We would want to ensure that this is only done to suspected spams. As a rule, any url sent to millions of people is likely to be a spam url, so submitting every http request in every email would work fine nearly all the time. But there are a few cases where this isn't true: the urls at the bottom of mails sent from free email services like Yahoo Mail and Hotmail, for example.</p>
+<p id="particle47" class="scrollParagraph">To protect such sites, and to prevent abuse, auto-retrieval should be combined with blacklists of spamvertised sites. Only sites on a blacklist would get crawled, and sites would be blacklisted only after being inspected by humans. The lifetime of a spam must be several hours at least, so it should be easy to update such a list in time to interfere with a spam promoting a new site. [2]</p>
+<p id="particle49" class="scrollParagraph">High-volume auto-retrieval would only be practical for users on high-bandwidth connections, but there are enough of those to cause spammers serious trouble. Indeed, this solution neatly mirrors the problem. The problem with spam is that in order to reach a few gullible people the spammer sends mail to everyone. The non-gullible recipients are merely collateral damage. But the non-gullible majority won't stop getting spam until they can stop (or threaten to stop) the gullible from responding to it. Auto-retrieving spam filters offer them a way to do this.</p>
+<p id="particle51" class="scrollParagraph">Would that kill spam? Not quite. The biggest spammers could probably protect their servers against auto-retrieving filters. However, the easiest and cheapest way for them to do it would be to include working unsubscribe links in their mails. And this would be a necessity for smaller fry, and for "legitimate" sites that hired spammers to promote them. So if auto-retrieving filters became widespread, they'd become auto-unsubscribing filters.</p>
+<p id="particle53" class="scrollParagraph">In this scenario, spam would, like OS crashes, viruses, and popups, become one of those plagues that only afflict people who don't bother to use the right software.</p>
+<p id="particle55" class="scrollParagraph"><b>Notes</b></p>
+<p id="particle57" class="scrollParagraph">[1] Auto-retrieving filters will have to follow redirects, and should in some cases (e.g. a page that just says "click here") follow more than one level of links. Make sure too that the http requests are indistinguishable from those of popular Web browsers, including the order and referrer.</p>
+<p id="particle59" class="scrollParagraph">If the response doesn't come back within x amount of time, default to some fairly high spam probability.</p>
+<p id="particle61" class="scrollParagraph">Instead of making n constant, it might be a good idea to make it a function of the number of spams that have been seen mentioning the site. This would add a further level of protection against abuse and accidents.</p>
+<p id="particle63" class="scrollParagraph">[2] The original version of this article used the term "whitelist" instead of "blacklist". Though they were to work like blacklists, I preferred to call them whitelists because it might make them less vulnerable to legal attack. This just seems to have confused readers, though.</p>
+<p id="particle65" class="scrollParagraph">There should probably be multiple blacklists. A single point of failure would be vulnerable both to attack and abuse.</p>
+<p id="particle67" class="scrollParagraph"><b>Thanks</b> to Brian Burton, Bill Yerazunis, Dan Giffin, Eric Raymond, and Richard Jowsey for reading drafts of this.</p>
 </div>
 <div class="scrollKeyboardNav" style="display:none;"><a href="iflisp.html">iflisp.html</a> · ffb.html · <a href="say.html">say.html</a><script>document.addEventListener('keydown', function(event) {
   if (document.activeElement !== document.body) return
@@ -61,9 +61,9 @@
   else if (event.key === "ArrowRight")
     getLinks()[1].click()
  });</script></div>
-<p id="particle76" class="printDateParser"  class="printDateParser" style="text-align:center;;undefined;undefined;undefined"><a href="ffb.html">HTML</a> | <a href="ffb.txt">TXT</a></p>
+<p id="particle77" class="printDateParser"  class="printDateParser" style="text-align:center;;undefined;undefined;undefined"><a href="ffb.html">HTML</a> | <a href="ffb.txt">TXT</a></p>
 <div class="abstractTextLinkParser"><a href="ffb.scroll">View source</a></div>
-<footer id="particle78" class="site-footer"><span id="particle1" >buPaulGraham</span>
+<footer id="particle79" class="site-footer"><span id="particle1" >buPaulGraham</span>
 <p id="particle2" class="scrollParagraph">this 3rd party backup made by <a href="https://twitter.com/breckyunits">@breckyunits</a></p>
 <p id="particle3" class="scrollParagraph"><a href="https://paulgraham.com/ffb.html">Original site ↗</a></p></footer>
 </body>
