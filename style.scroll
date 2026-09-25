@@ -1,0 +1,9 @@
+bu.scroll
+buildCss
+BU_STYLES
+
+// Paul-specific archive and search sizing.
+css
+ .archive{width:calc(100% - 112px)!important}.archive h1{font:400 44px/1.2 var(--serif);letter-spacing:-1.8px}.archive .search{margin:0 0 25px auto}@media(max-width:760px){.archive{width:calc(100% - 44px)!important}}
+ .search-page th:first-child{width:36%}.search-page th:nth-child(2){width:auto}
+ .search-page th:nth-child(2){width:80px}@media(max-width:760px){.search-page th:nth-child(2){width:65px}}

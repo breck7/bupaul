@@ -20,43 +20,44 @@
 </head>
 <body>
 <link rel="stylesheet" type="text/css" href="style.css">
-<a id="particle16" href="#main" class="skip-link">Skip to content</a>
-<header id="particle18" class="site-header"><div id="particle1" class="site-identity"><p id="particle1" class="wordmark"><a href="index.html">bupaul</a></p>
-<p id="particle2" class="site-description">boo paul graham.  made by <a href="https://twitter.com/breckyunits">@breckyunits</a></p></div>
+<a id="particle58" href="#main" class="skip-link">Skip to content</a>
+<header id="particle60" class="site-header"><div id="particle1" class="site-identity"><p id="particle1" class="wordmark"><a href="index.html">bupaul</a></p>
+<p id="particle2" class="site-description">boo paul graham.  made by <a href="https://twitter.com/breckyunits">@breckyunits</a></p>
+<p id="particle3" class="clone-command">git clone https://github.com/breck7/bupaul</p></div>
 <nav id="particle2" aria-label="Main navigation" ><p id="particle1" class="scrollParagraph"><a href="search.html">Search</a></p>
 <p id="particle2" class="scrollParagraph"><a href="https://paulgraham.com/diff.html">Original site ↗</a></p></nav></header>
-<div id="particle21" class="article-header" style="width: 100%; box-sizing: border-box; max-width: 720px; margin: 0 auto;">
-<a id="particle22" href="index.html#archive-heading" class="back">← All writing</a>
-<div class="scrollSection"><h1 id="particle23" class="printTitleParser"><a href="diff.html">What Made Lisp Different</a></h1>
+<div id="particle63" class="article-header" style="width: 100%; box-sizing: border-box; max-width: 720px; margin: 0 auto;">
+<a id="particle64" href="index.html#archive-heading" class="back">← All writing</a>
+<div class="scrollSection"><h1 id="particle66" class="printTitleParser"><a href="diff.html">What Made Lisp Different</a></h1>
 </div>
 </div>
 <div id="main" role="main" class="prose" style="width: 100%; box-sizing: border-box; max-width: 720px; margin: 0 auto;">
-<p id="particle29" class="scrollParagraph">December 2001 (rev. May 2002)</p>
-<p id="particle31" class="scrollParagraph"><i>(This article came about in response to some questions on the <a href="http://ll1.mit.edu">LL1</a> mailing list. It is now incorporated in <a href="icad.html">Revenge of the Nerds</a>.)</i></p>
-<p id="particle33" class="scrollParagraph">When McCarthy designed Lisp in the late 1950s, it was a radical departure from existing languages, the most important of which was <a href="https://paulgraham.com/history.html">Fortran</a>.</p>
-<p id="particle35" class="scrollParagraph">Lisp embodied nine new ideas:</p>
+<p id="particle72" class="scrollParagraph">December 2001 (rev. May 2002)</p>
+<p id="particle74" class="scrollParagraph"><i>(This article came about in response to some questions on the <a href="http://ll1.mit.edu">LL1</a> mailing list. It is now incorporated in <a href="icad.html">Revenge of the Nerds</a>.)</i></p>
+<p id="particle76" class="scrollParagraph">When McCarthy designed Lisp in the late 1950s, it was a radical departure from existing languages, the most important of which was <a href="https://paulgraham.com/history.html">Fortran</a>.</p>
+<p id="particle78" class="scrollParagraph">Lisp embodied nine new ideas:</p>
 <hr>
-<p id="particle39" class="scrollParagraph"><b>1. Conditionals.</b> A conditional is an if-then-else construct. We take these for granted now. They were <a href="http://www-formal.stanford.edu/jmc/history/lisp/node2.html">invented</a> by McCarthy in the course of developing Lisp. (Fortran at that time only had a conditional goto, closely based on the branch instruction in the underlying hardware.) McCarthy, who was on the Algol committee, got conditionals into Algol, whence they spread to most other languages.</p>
-<p id="particle41" class="scrollParagraph"><b>2. A function type.</b> In Lisp, functions are first class objects-- they're a data type just like integers, strings, etc, and have a literal representation, can be stored in variables, can be passed as arguments, and so on.</p>
-<p id="particle43" class="scrollParagraph"><b>3. Recursion.</b> Recursion existed as a mathematical concept before Lisp of course, but Lisp was the first programming language to support it. (It's arguably implicit in making functions first class objects.)</p>
-<p id="particle45" class="scrollParagraph"><b>4. A new concept of variables.</b> In Lisp, all variables are effectively pointers. Values are what have types, not variables, and assigning or binding variables means copying pointers, not what they point to.</p>
-<div class="scrollSection"><h2 id="particle47" class="scrollParagraph">5. Garbage-collection.</h2>
+<p id="particle82" class="scrollParagraph"><b>1. Conditionals.</b> A conditional is an if-then-else construct. We take these for granted now. They were <a href="http://www-formal.stanford.edu/jmc/history/lisp/node2.html">invented</a> by McCarthy in the course of developing Lisp. (Fortran at that time only had a conditional goto, closely based on the branch instruction in the underlying hardware.) McCarthy, who was on the Algol committee, got conditionals into Algol, whence they spread to most other languages.</p>
+<p id="particle84" class="scrollParagraph"><b>2. A function type.</b> In Lisp, functions are first class objects-- they're a data type just like integers, strings, etc, and have a literal representation, can be stored in variables, can be passed as arguments, and so on.</p>
+<p id="particle86" class="scrollParagraph"><b>3. Recursion.</b> Recursion existed as a mathematical concept before Lisp of course, but Lisp was the first programming language to support it. (It's arguably implicit in making functions first class objects.)</p>
+<p id="particle88" class="scrollParagraph"><b>4. A new concept of variables.</b> In Lisp, all variables are effectively pointers. Values are what have types, not variables, and assigning or binding variables means copying pointers, not what they point to.</p>
+<div class="scrollSection"><h2 id="particle90" class="scrollParagraph">5. Garbage-collection.</h2>
 </div>
-<p id="particle49" class="scrollParagraph"><b>6. Programs composed of expressions.</b> Lisp programs are trees of expressions, each of which returns a value. (In some Lisps expressions can return multiple values.) This is in contrast to Fortran and most succeeding languages, which distinguish between expressions and statements.</p>
-<p id="particle51" class="scrollParagraph">It was natural to have this distinction in Fortran because (not surprisingly in a language where the input format was punched cards) the language was line-oriented. You could not nest statements. And so while you needed expressions for math to work, there was no point in making anything else return a value, because there could not be anything waiting for it.</p>
-<p id="particle53" class="scrollParagraph">This limitation went away with the arrival of block-structured languages, but by then it was too late. The distinction between expressions and statements was entrenched. It spread from Fortran into Algol and thence to both their descendants.</p>
-<p id="particle55" class="scrollParagraph">When a language is made entirely of expressions, you can compose expressions however you want. You can say either (using <a href="https://paulgraham.com/arc.html">Arc</a> syntax)</p>
-<p id="particle57" class="scrollParagraph">(if foo (= x 1) (= x 2))</p>
-<p id="particle59" class="scrollParagraph">or</p>
-<p id="particle61" class="scrollParagraph">(= x (if foo 1 2))</p>
-<p id="particle63" class="scrollParagraph"><b>7. A symbol type.</b> Symbols differ from strings in that you can test equality by comparing a pointer.</p>
-<p id="particle65" class="scrollParagraph"><b>8. A notation for code</b> using trees of symbols.</p>
-<p id="particle67" class="scrollParagraph"><b>9. The whole language always available.</b> There is no real distinction between read-time, compile-time, and runtime. You can compile or run code while reading, read or run code while compiling, and read or compile code at runtime.</p>
-<p id="particle69" class="scrollParagraph">Running code at read-time lets users reprogram Lisp's syntax; running code at compile-time is the basis of macros; compiling at runtime is the basis of Lisp's use as an extension language in programs like Emacs; and reading at runtime enables programs to communicate using s-expressions, an idea recently reinvented as XML.</p>
+<p id="particle92" class="scrollParagraph"><b>6. Programs composed of expressions.</b> Lisp programs are trees of expressions, each of which returns a value. (In some Lisps expressions can return multiple values.) This is in contrast to Fortran and most succeeding languages, which distinguish between expressions and statements.</p>
+<p id="particle94" class="scrollParagraph">It was natural to have this distinction in Fortran because (not surprisingly in a language where the input format was punched cards) the language was line-oriented. You could not nest statements. And so while you needed expressions for math to work, there was no point in making anything else return a value, because there could not be anything waiting for it.</p>
+<p id="particle96" class="scrollParagraph">This limitation went away with the arrival of block-structured languages, but by then it was too late. The distinction between expressions and statements was entrenched. It spread from Fortran into Algol and thence to both their descendants.</p>
+<p id="particle98" class="scrollParagraph">When a language is made entirely of expressions, you can compose expressions however you want. You can say either (using <a href="https://paulgraham.com/arc.html">Arc</a> syntax)</p>
+<p id="particle100" class="scrollParagraph">(if foo (= x 1) (= x 2))</p>
+<p id="particle102" class="scrollParagraph">or</p>
+<p id="particle104" class="scrollParagraph">(= x (if foo 1 2))</p>
+<p id="particle106" class="scrollParagraph"><b>7. A symbol type.</b> Symbols differ from strings in that you can test equality by comparing a pointer.</p>
+<p id="particle108" class="scrollParagraph"><b>8. A notation for code</b> using trees of symbols.</p>
+<p id="particle110" class="scrollParagraph"><b>9. The whole language always available.</b> There is no real distinction between read-time, compile-time, and runtime. You can compile or run code while reading, read or run code while compiling, and read or compile code at runtime.</p>
+<p id="particle112" class="scrollParagraph">Running code at read-time lets users reprogram Lisp's syntax; running code at compile-time is the basis of macros; compiling at runtime is the basis of Lisp's use as an extension language in programs like Emacs; and reading at runtime enables programs to communicate using s-expressions, an idea recently reinvented as XML.</p>
 <hr>
-<p id="particle73" class="scrollParagraph">When Lisp was first invented, all these ideas were far removed from ordinary programming practice, which was dictated largely by the hardware available in the late 1950s.</p>
-<p id="particle75" class="scrollParagraph">Over time, the default language, embodied in a succession of popular languages, has gradually evolved toward Lisp. 1-5 are now widespread. 6 is starting to appear in the mainstream. Python has a form of 7, though there doesn't seem to be any syntax for it. 8, which (with 9) is what makes Lisp macros possible, is so far still unique to Lisp, perhaps because (a) it requires those parens, or something just as bad, and (b) if you add that final increment of power, you can no longer claim to have invented a new language, but only to have designed a new dialect of Lisp ; -)</p>
-<p id="particle77" class="scrollParagraph">Though useful to present-day programmers, it's strange to describe Lisp in terms of its variation from the random expedients other languages adopted. That was not, probably, how McCarthy thought of it. Lisp wasn't designed to fix the mistakes in Fortran; it came about more as the byproduct of an attempt to <a href="rootsoflisp.html">axiomatize computation</a>.</p>
+<p id="particle116" class="scrollParagraph">When Lisp was first invented, all these ideas were far removed from ordinary programming practice, which was dictated largely by the hardware available in the late 1950s.</p>
+<p id="particle118" class="scrollParagraph">Over time, the default language, embodied in a succession of popular languages, has gradually evolved toward Lisp. 1-5 are now widespread. 6 is starting to appear in the mainstream. Python has a form of 7, though there doesn't seem to be any syntax for it. 8, which (with 9) is what makes Lisp macros possible, is so far still unique to Lisp, perhaps because (a) it requires those parens, or something just as bad, and (b) if you add that final increment of power, you can no longer claim to have invented a new language, but only to have designed a new dialect of Lisp ; -)</p>
+<p id="particle120" class="scrollParagraph">Though useful to present-day programmers, it's strange to describe Lisp in terms of its variation from the random expedients other languages adopted. That was not, probably, how McCarthy thought of it. Lisp wasn't designed to fix the mistakes in Fortran; it came about more as the byproduct of an attempt to <a href="rootsoflisp.html">axiomatize computation</a>.</p>
 </div>
 <div class="scrollKeyboardNav" style="display:none;"><a href="road.html">road.html</a> · diff.html · <a href="taste.html">taste.html</a><script>document.addEventListener('keydown', function(event) {
   if (document.activeElement !== document.body) return
@@ -67,10 +68,11 @@
   else if (event.key === "ArrowRight")
     getLinks()[1].click()
  });</script></div>
-<p id="particle87" class="printDateParser"  class="printDateParser" style="text-align:center;;undefined;undefined;undefined"><a href="diff.html">HTML</a> | <a href="diff.txt">TXT</a></p>
+<p id="particle130" class="printDateParser"  class="printDateParser" style="text-align:center;;undefined;undefined;undefined"><a href="diff.html">HTML</a> | <a href="diff.txt">TXT</a></p>
 <div class="abstractTextLinkParser"><a href="diff.scroll">View source</a></div>
-<footer id="particle89" class="site-footer"><span id="particle1" >bupaul</span>
+<footer id="particle132" class="site-footer"><span id="particle1" >bupaul</span>
 <p id="particle2" class="scrollParagraph">boo paul graham.  made by <a href="https://twitter.com/breckyunits">@breckyunits</a></p>
-<p id="particle3" class="scrollParagraph"><a href="https://paulgraham.com/diff.html">Original site ↗</a></p></footer>
+<p id="particle3" class="scrollParagraph"><a href="https://paulgraham.com/diff.html">Original site ↗</a></p>
+<p id="particle4" class="clone-command">git clone https://github.com/breck7/bupaul</p></footer>
 </body>
 </html>
