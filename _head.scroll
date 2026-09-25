@@ -2,31 +2,10 @@ importOnly
 baseUrl https://bupaul.breck.lol/
 openGraphImage bupaul-poster.jpg
 blog.parsers
-inlineMarkups
- *
- _
- `
-metaTags
-favicon favicon.svg
-style.css
+bu.scroll
+replace BU_SITE_NAME bupaul
+replace BU_SITE_DESCRIPTION boo paul graham.  made by @breckyunits
+replace BU_ORIGINAL_LABEL Original site ↗
+replace BU_POST_DATE
 
-a Skip to content
- href #main
- addClass skip-link
-
-header
- addClass site-header
- div
-  addClass site-identity
-  bupaul
-   index.html
-   addClass wordmark
-  boo paul graham.  made by @breckyunits
-   https://twitter.com/breckyunits @breckyunits
-   addClass site-description
- nav
-  aria-label Main navigation
-  Search
-   search.html
-  Original site ↗
-   originalLink
+BU_HEAD
