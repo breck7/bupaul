@@ -1,6 +1,6 @@
 importOnly
-baseUrl https://bupaulgraham.breck.lol/
-openGraphImage bupaulgraham-poster.jpg
+baseUrl https://bupaul.breck.lol/
+openGraphImage bupaul-poster.jpg
 blog.parsers
 inlineMarkups
  *
@@ -18,7 +18,7 @@ header
  addClass site-header
  div
   addClass site-identity
-  buPaulGraham
+  bupaul
    index.html
    addClass wordmark
   this 3rd party backup made by @breckyunits
