@@ -60,12 +60,12 @@ When I started advising startup founders at Y Combinator, especially young ones,
 Oh, they'd say, and then after a pause to digest this revelation, they'd ask: What makes a startup a good investment?
 
 So I would explain that what makes a startup promising, not just in the eyes of investors but in fact, is growth. Ideally in revenue, but failing that in usage. What they needed to do was get lots of users.
- https://bupaulgraham.breck.lol/growth.html growth
+ https://bupaul.breck.lol/growth.html growth
 
 How does one get lots of users? They had all kinds of ideas about that. They needed to do a big launch that would get them "exposure." They needed influential people to talk about them. They even knew they needed to launch on a tuesday, because that's when one gets the most attention.
 
 No, I would explain, that is not how to get lots of users. The way you get lots of users is to make the product really great. Then people will not only use it but recommend it to their friends, so your growth will be exponential once you get it started.
- https://bupaulgraham.breck.lol/ds.html get it started
+ https://bupaul.breck.lol/ds.html get it started
 
 At this point I've told the founders something you'd think would be completely obvious: that they should make a good company by making a good product. And yet their reaction would be something like the reaction many physicists must have had when they first heard about the theory of relativity: a mixture of astonishment at its apparent genius, combined with a suspicion that anything so weird couldn't possibly be right. Ok, they would say, dutifully. And could you introduce us to such-and-such influential person? And remember, we want to launch on Tuesday.
 
@@ -100,7 +100,7 @@ Tests can be divided into two kinds: those that are imposed by authorities, and 
 You might actually like to win by hacking bad tests. Presumably some people do. But I bet most people who find themselves doing this kind of work don't like it. They just take it for granted that this is how the world works, unless you want to drop out and be some kind of hippie artisan.
 
 I suspect many people implicitly assume that working in a field with bad tests is the price of making lots of money. But that, I can tell you, is false. It used to be true. In the mid-twentieth century, when the economy was composed of oligopolies, the only way to the top was by playing their game. But it's not true now. There are now ways to get rich by doing good work, and that's part of the reason people are so much more excited about getting rich than they used to be. When I was a kid, you could either become an engineer and make cool things, or make lots of money by becoming an "executive." Now you can make lots of money by making cool things.
- https://bupaulgraham.breck.lol/re.html composed of oligopolies
+ https://bupaul.breck.lol/re.html composed of oligopolies
 
 Hacking bad tests is becoming less important as the link between work and authority erodes. The erosion of that link is one of the most important trends happening now, and we see its effects in almost every kind of work people do. Startups are one of the most visible examples, but we see much the same thing in writing. Writers no longer have to submit to publishers and editors to reach readers; now they can go direct.
 
@@ -117,7 +117,7 @@ Notes
 [3] Learning is the naive algorithm for getting good grades.
 
 [4] Hacking has multiple senses. There's a narrow sense in which it means to compromise something. That's the sense in which one hacks a bad test. But there's another, more general sense, meaning to find a surprising solution to a problem, often by thinking differently about it. Hacking in this sense is a wonderful thing. And indeed, some of the hacks people use on bad tests are impressively ingenious; the problem is not so much the hacking as that, because the tests are hackable, they don't test what they're meant to.
- https://bupaulgraham.breck.lol/gba.html Hacking
+ https://bupaul.breck.lol/gba.html Hacking
 
 [5] The people who pick startups at Y Combinator are similar to admissions officers, except that instead of being arbitrary, their acceptance criteria are trained by a very tight feedback loop. If you accept a bad startup or reject a good one, you will usually know it within a year or two at the latest, and often within a month.
 
@@ -130,7 +130,7 @@ Notes
 [9] Note that a good test is merely one that's unhackable. Good here doesn't mean morally good, but good in the sense of working well. The difference between fields with bad tests and good ones is not that the former are bad and the latter are good, but that the former are bogus and the latter aren't. But those two measures are not unrelated. As Tara Ploughman said, the path from good to evil goes through bogus.
 
 [10] People who think the recent increase in economic inequality is due to changes in tax policy seem very naive to anyone with experience in startups. Different people are getting rich now than used to, and they're getting much richer than mere tax savings could make them.
- https://bupaulgraham.breck.lol/ineq.html economic inequality
+ https://bupaul.breck.lol/ineq.html economic inequality
 
 [11] Note to tiger parents: you may think you're training your kids to win, but if you're training them to win by hacking bad tests, you are, as parents so often do, training them to fight the last war.
 

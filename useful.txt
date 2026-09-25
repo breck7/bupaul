@@ -42,7 +42,7 @@ I'll sometimes let through a sentence that seems clumsy, if I can't think of a w
 This is where essayists have an advantage over journalists. You don't have a deadline. You can work for as long on an essay as you need to get it right. You don't have to publish the essay at all, if you can't get it right. Mistakes seem to lose courage in the face of an enemy with unlimited resources. Or that's what it feels like. What's really going on is that you have different expectations for yourself. You're like a parent saying to a child "we can sit here all night till you eat your vegetables." Except you're the child too.
 
 I'm not saying no mistake gets through. For example, I added condition (c) in "A Way to Detect Bias" after readers pointed out that I'd omitted it. But in practice you can catch nearly all of them.
- https://bupaulgraham.breck.lol/bias.html "A Way to Detect Bias"
+ https://bupaul.breck.lol/bias.html "A Way to Detect Bias"
 
 There's a trick for getting importance too. It's like the trick I suggest to young founders for getting startup ideas: to make something you yourself want. You can use yourself as a proxy for the reader. The reader is not completely unlike you, so if you write about topics that seem important to you, they'll probably seem important to a significant number of readers as well.
 
@@ -69,7 +69,7 @@ _____
 I believe the formula I've given you, importance + novelty + correctness + strength, is the recipe for a good essay. But I should warn you that it's also a recipe for making people mad.
 
 The root of the problem is novelty. When you tell people something they didn't know, they don't always thank you for it. Sometimes the reason people don't know something is because they don't want to know it. Usually because it contradicts some cherished belief. And indeed, if you're looking for novel ideas, popular but mistaken beliefs are a good place to find them. Every popular mistaken belief creates a dead zone of ideas around it that are relatively unexplored because they contradict it.
- https://bupaulgraham.breck.lol/nov.html dead zone
+ https://bupaul.breck.lol/nov.html dead zone
 
 The strength component just makes things worse. If there's anything that annoys people more than having their cherished assumptions contradicted, it's having them flatly contradicted.
 
@@ -109,7 +109,7 @@ _____
 How many essays are there left to write though? The answer to that question is probably the most exciting thing I've learned about essay writing. Nearly all of them are left to write.
 
 Although the essay is an old form, it hasn't been assiduously cultivated. In the print era, publication was expensive, and there wasn't enough demand for essays to publish that many. You could publish essays if you were already well known for writing something else, like novels. Or you could write book reviews that you took over to express your own ideas. But there was not really a direct path to becoming an essayist. Which meant few essays got written, and those that did tended to be about a narrow range of subjects.
- https://bupaulgraham.breck.lol/essay.html the essay
+ https://bupaul.breck.lol/essay.html the essay
 
 Now, thanks to the internet, there's a path. Anyone can publish essays online. You start in obscurity, perhaps, but at least you can start. You don't need anyone's permission.
 

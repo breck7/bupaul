@@ -15,7 +15,7 @@ Teaching hackers how to deal with investors is probably the second most importan
 =============================================
 
 About a year ago I tried to figure out what you'd need to reproduce Silicon Valley. I decided the critical ingredients were rich people and nerds—investors and founders. People are all you need to make technology, and all the other people will move.
- https://bupaulgraham.breck.lol/siliconvalley.html Silicon Valley
+ https://bupaul.breck.lol/siliconvalley.html Silicon Valley
 
 If I had to narrow that down, I'd say investors are the limiting factor. Not because they contribute more to the startup, but simply because they're least willing to move. They're rich. They're not going to move to Albuquerque just because there are some smart hackers there they could invest in. Whereas hackers will move to the Bay Area to find investors.
 
@@ -25,7 +25,7 @@ If I had to narrow that down, I'd say investors are the limiting factor. Not bec
 There are several types of investors. The two main categories are angels and VCs: VCs invest other people's money, and angels invest their own.
 
 Though they're less well known, the angel investors are probably the more critical ingredient in creating a silicon valley. Most companies that VCs invest in would never have made it that far if angels hadn't invested first. VCs say between half and three quarters of companies that raise series A rounds have taken some outside investment already. [1]
- https://bupaulgraham.breck.lol/#f1n 1
+ https://bupaul.breck.lol/#f1n 1
 
 Angels are willing to fund riskier projects than VCs. They also give valuable advice, because (unlike VCs) many have been startup founders themselves.
 
@@ -41,7 +41,7 @@ Where do angel investors come from? From other startups. So startup hubs like Si
 If angels are so important, why do we hear more about VCs? Because VCs like publicity. They need to market themselves to the investors who are their "customers"—the endowments and pension funds and rich families whose money they invest—and also to founders who might come to them for funding.
 
 Angels don't need to market themselves to investors because they invest their own money. Nor do they want to market themselves to founders: they don't want random people pestering them with business plans. Actually, neither do VCs. Both angels and VCs get deals almost exclusively through personal introductions. [2]
- https://bupaulgraham.breck.lol/#f2n 2
+ https://bupaul.breck.lol/#f2n 2
 
 The reason VCs want a strong brand is not to draw in more business plans over the transom, but so they win deals when competing against other VCs. Whereas angels are rarely in direct competition, because (a) they do fewer deals, (b) they're happy to split them, and (c) they invest at a point where the stream is broader.
 
@@ -125,7 +125,7 @@ Whatever help investors give a startup tends to be underestimated. It's to every
 This trend is compounded by the obsession that the press has with founders. In a company founded by two people, 10% of the ideas might come from the first guy they hire. Arguably they've done a bad job of hiring otherwise. And yet this guy will be almost entirely overlooked by the press.
 
 I say this as a founder: the contribution of founders is always overestimated. The danger here is that new founders, looking at existing founders, will think that they're supermen that one couldn't possibly equal oneself. Actually they have a hundred different types of support people just offscreen making the whole show possible. [3]
- https://bupaulgraham.breck.lol/#f3n 3
+ https://bupaul.breck.lol/#f3n 3
 
 11. VCs are afraid of looking bad.
 ==================================
@@ -145,8 +145,8 @@ Some founders are quite dejected when they get turned down by investors. They sh
 
 Investors will often reject you for what seem to be superficial reasons. I read of one VC who turned down a startup simply because they'd given away so many little bits of stock that the deal required too many signatures to close. [4] The reason investors can get away with this is that they see so many deals. It doesn't matter if they underestimate you because of some surface imperfection, because the next best deal will be almost as good. Imagine picking out apples at a grocery store. You grab one with a little bruise. Maybe it's just a surface bruise, but why even bother checking when there are so many other unbruised apples to choose from?
  http://ricksegal.typepad.com/pmv/2007/02/a_fatal_paper_c.html turned down
- https://bupaulgraham.breck.lol/#f4n 4
- https://bupaulgraham.breck.lol/judgement.html almost as good
+ https://bupaul.breck.lol/#f4n 4
+ https://bupaul.breck.lol/judgement.html almost as good
 
 Investors would be the first to admit they're often wrong. So when you get rejected by investors, don't think "we suck," but instead ask "do we suck?" Rejection is a question, not an answer.
 
@@ -158,7 +158,7 @@ I've been surprised to discover how emotional investors can be. You'd expect the
 A while ago an eminent VC firm offered a series A round to a startup we'd seed funded. Then they heard a rival VC firm was also interested. They were so afraid that they'd be rejected in favor of this other firm that they gave the startup what's known as an "exploding termsheet." They had, I think, 24 hours to say yes or no, or the deal was off. Exploding termsheets are a somewhat dubious device, but not uncommon. What surprised me was their reaction when I called to talk about it. I asked if they'd still be interested in the startup if the rival VC didn't end up making an offer, and they said no. What rational basis could they have had for saying that? If they thought the startup was worth investing in, what difference should it make what some other VC thought? Surely it was their duty to their limited partners simply to invest in the best opportunities they found; they should be delighted if the other VC said no, because it would mean they'd overlooked a good opportunity. But of course there was no rational basis for their decision. They just couldn't stand the idea of taking this rival firm's rejects.
 
 In this case the exploding termsheet was not (or not only) a tactic to pressure the startup. It was more like the high school trick of breaking up with someone before they can break up with you. In an earlier essay I said that VCs were a lot like high school girls. A few VCs have joked about that characterization, but none have disputed it.
- https://bupaulgraham.breck.lol/startupfunding.html earlier essay
+ https://bupaul.breck.lol/startupfunding.html earlier essay
 
 14. The negotiation never stops till the closing.
 =================================================

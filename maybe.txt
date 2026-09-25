@@ -4,7 +4,7 @@ Can You Buy a Silicon Valley?  Maybe.
 February 2009
 
 A lot of cities look at Silicon Valley and ask "How could we make something like that happen here?" The organic way to do it is to establish a first-rate university in a place where rich people want to live. That's how Silicon Valley happened. But could you shortcut the process by funding startups?
- https://bupaulgraham.breck.lol/siliconvalley.html organic
+ https://bupaul.breck.lol/siliconvalley.html organic
 
 Possibly. Let's consider what it would take.
 
@@ -14,7 +14,7 @@ People sometimes think they could improve the startup scene in their town by sta
  http://ycombinator.com Y Combinator
 
 The seed funding business is not a regional business, because at that stage startups are mobile. They're just a couple founders with laptops. [1]
- https://bupaulgraham.breck.lol/#f1n 1
+ https://bupaul.breck.lol/#f1n 1
 
 If you want to encourage startups in a particular city, you have to fund startups that won't leave. There are two ways to do that: have rules preventing them from leaving, or fund them at the point in their life when they naturally take root. The first approach is a mistake, because it becomes a filter for selecting bad startups. If your terms force startups to do things they don't want to, only the desperate ones will take your money.
 
@@ -40,10 +40,10 @@ ___
 But now comes the hard part. You have to pick the startups. How do you do that? Picking startups is a rare and valuable skill, and the handful of people who have it are not readily hireable. And this skill is so hard to measure that if a government did try to hire people with it, they'd almost certainly get the wrong ones.
 
 For example, a city could give money to a VC fund to establish a local branch, and let them make the choices. But only a bad VC fund would take that deal. They wouldn't seem bad to the city officials. They'd seem very impressive. But they'd be bad at picking startups. That's the characteristic failure mode of VCs. All VCs look impressive to limited partners. The difference between the good ones and the bad ones only becomes visible in the other half of their jobs: choosing and advising startups. [2]
- https://bupaulgraham.breck.lol/#f2n 2
+ https://bupaul.breck.lol/#f2n 2
 
 What you really want is a pool of local angel investors—people investing money they made from their own startups. But unfortunately you run into a chicken and egg problem here. If your city isn't already a startup hub, there won't be people there who got rich from startups. And there is no way I can think of that a city could attract angels from outside. By definition they're rich. There's no incentive that would make them move. [3]
- https://bupaulgraham.breck.lol/#f3n 3
+ https://bupaul.breck.lol/#f3n 3
 
 However, a city could select startups by piggybacking on the expertise of investors who weren't local. It would be pretty straightforward to make a list of the most eminent Silicon Valley angels and from that to generate a list of all the startups they'd invested in. If a city offered these companies a million dollars each to move, a lot of the earlier stage ones would probably take it.
 
@@ -62,10 +62,10 @@ Don't try to do it on the cheap and pick only 10 for the initial experiment. If 
 Don't try to make them all work in some renovated warehouse you've made into an "incubator." Real startups prefer to work in their own spaces.
 
 In fact, don't impose any restrictions on the startups at all. Startup founders are mostly hackers, and hackers are much more constrained by gentlemen's agreements than regulations. If they shake your hand on a promise, they'll keep it. But show them a lock and their first thought is how to pick it.
- https://bupaulgraham.breck.lol/gba.html hackers
+ https://bupaul.breck.lol/gba.html hackers
 
 Interestingly, the 30-startup experiment could be done by any sufficiently rich private citizen. And what pressure it would put on the city if it worked. [4]
- https://bupaulgraham.breck.lol/#f4n 4
+ https://bupaul.breck.lol/#f4n 4
 
 ___
 
@@ -78,7 +78,7 @@ It would be too much of a political liability just to give the startups the mone
 ___
 
 How well this scheme worked would depend on the city. There are some towns, like Portland, that would be easy to turn into startup hubs, and others, like Detroit, where it would really be an uphill battle. So be honest with yourself about the sort of town you have before you try this.
- https://bupaulgraham.breck.lol/cities.html city
+ https://bupaul.breck.lol/cities.html city
 
 It will be easier in proportion to how much your town resembles San Francisco. Do you have good weather? Do people live downtown, or have they abandoned the center for the suburbs? Would the city be described as "hip" and "tolerant," or as reflecting "traditional values?" Are there good universities nearby? Are there walkable neighborhoods? Would nerds feel at home? If you answered yes to all these questions, you might be able not only to pull off this scheme, but to do it for less than a million per startup.
 

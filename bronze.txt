@@ -12,7 +12,7 @@ This summer, as an experiment, some friends and I are giving seed funding to a b
 We know from Google and Yahoo that grad students can start successful startups. And we know from experience that some undergrads are as capable as most grad students. The accepted age for startup founders has been creeping downward. We're trying to find the lower bound.
 
 The deadline has now passed, and we're sifting through 227 applications. We expected to divide them into two categories, promising and unpromising. But we soon saw we needed a third: promising people with unpromising ideas. [1]
- https://bupaulgraham.breck.lol/#f1n 1
+ https://bupaul.breck.lol/#f1n 1
 
 The Artix Phase
 
@@ -20,7 +20,7 @@ We should have expected this. It's very common for a group of founders to go thr
 
 Viaweb wasn't the first startup Robert Morris and I started. In January 1995, we and a couple friends started a company called Artix. The plan was to put art galleries on the Web. In retrospect, I wonder how we could have wasted our time on anything so stupid. Galleries are not especially excited about being on the Web even now, ten years later. They don't want to have their stock visible to any random visitor, like an antique store. [2]
  http://www.knoedlergallery.com/ excited
- https://bupaulgraham.breck.lol/#f2n 2
+ https://bupaul.breck.lol/#f2n 2
 
 Besides which, art dealers are the most technophobic people on earth. They didn't become art dealers after a difficult choice between that and a career in the hard sciences. Most of them had never seen the Web before we came to tell them why they should be on it. Some didn't even have computers. It doesn't do justice to the situation to describe it as a hard sell; we soon sank to building sites for free, and it was hard to convince galleries even to do that.
 
@@ -29,7 +29,7 @@ Gradually it dawned on us that instead of trying to make Web sites for people wh
 We're in good company here. Microsoft was not the first company Paul Allen and Bill Gates started either. The first was called Traf-o-data. It does not seem to have done as well as Micro-soft.
 
 In Robert's defense, he was skeptical about Artix. I dragged him into it. [3] But there were moments when he was optimistic. And if we, who were 29 and 30 at the time, could get excited about such a thoroughly boneheaded idea, we should not be surprised that hackers aged 21 or 22 are pitching us ideas with little hope of making money.
- https://bupaulgraham.breck.lol/#f3n 3
+ https://bupaul.breck.lol/#f3n 3
 
 The Still Life Effect
 
@@ -46,7 +46,7 @@ So the biggest cause of bad ideas is the still life effect: you come up with a r
 How do we fix that? I don't think we should discard plunging. Plunging into an idea is a good thing. The solution is at the other end: to realize that having invested time in something doesn't make it good.
 
 This is clearest in the case of names. Viaweb was originally called Webgen, but we discovered someone else had a product called that. We were so attached to our name that we offered him 5% of the company if he'd let us have it. But he wouldn't, so we had to think of another. [4] The best we could do was Viaweb, which we disliked at first. It was like having a new mother. But within three days we loved it, and Webgen sounded lame and old-fashioned.
- https://bupaulgraham.breck.lol/#f4n 4
+ https://bupaul.breck.lol/#f4n 4
 
 If it's hard to change something so simple as a name, imagine how hard it is to garbage-collect an idea. A name only has one point of attachment into your head. An idea for a company gets woven into your thoughts. So you must consciously discount for that. Plunge in, by all means, but remember later to look at your idea in the harsh light of morning and ask: is this something people will pay for? Is this, of all the things we could make, the thing people will pay most for?
 
@@ -67,8 +67,8 @@ Hyenas
 When I probe our motives with Artix, I see a third mistake: timidity. If you'd proposed at the time that we go into the e-commerce business, we'd have found the idea terrifying. Surely a field like that would be dominated by fearsome startups with five million dollars of VC money each. Whereas we felt pretty sure that we could hold our own in the slightly less competitive business of generating Web sites for art galleries.
 
 We erred ridiculously far on the side of safety. As it turns out, VC-backed startups are not that fearsome. They're too busy trying to spend all that money to get software written. In 1995, the e-commerce business was very competitive as measured in press releases, but not as measured in software. And really it never was. The big fish like Open Market (rest their souls) were just consulting companies pretending to be product companies [5], and the offerings at our end of the market were a couple hundred lines of Perl scripts. Or could have been implemented as a couple hundred lines of Perl; in fact they were probably tens of thousands of lines of C++ or Java. Once we actually took the plunge into e-commerce, it turned out to be surprisingly easy to compete.
- https://bupaulgraham.breck.lol/venturecapital.html money
- https://bupaulgraham.breck.lol/#f5n 5
+ https://bupaul.breck.lol/venturecapital.html money
+ https://bupaul.breck.lol/#f5n 5
 
 So why were we afraid? We felt we were good at programming, but we lacked confidence in our ability to do a mysterious, undifferentiated thing we called "business." In fact there is no such thing as "business." There's selling, promotion, figuring out what people want, deciding how much to charge, customer support, paying your bills, getting customers to pay you, getting incorporated, raising money, and so on. And the combination is not as hard as it seems, because some tasks (like raising money and getting incorporated) are an O(1) pain in the ass, whether you're big or small, and others (like selling and promotion) depend more on energy and imagination than any kind of special training.
 
@@ -93,7 +93,7 @@ But that, I'm convinced, is just the effect of training. Or more precisely, the 
 Copper and Tin
 
 The good news is, choosing problems is something that can be learned. I know that from experience. Hackers can learn to make things customers want. [6]
- https://bupaulgraham.breck.lol/#f6n 6
+ https://bupaul.breck.lol/#f6n 6
 
 This is a controversial view. One expert on "entrepreneurship" told me that any startup had to include business people, because only they could focus on what customers wanted. I'll probably alienate this guy forever by quoting him, but I have to risk it, because his email was such a perfect example of this view:
 
@@ -106,10 +106,10 @@ The hard part about figuring out what customers want is figuring out that you ne
 And compared to the sort of problems hackers are used to solving, giving customers what they want is easy. Anyone who can write an optimizing compiler can design a UI that doesn't confuse users, once they choose to focus on that problem. And once you apply that kind of brain power to petty but profitable questions, you can create wealth very rapidly.
 
 That's the essence of a startup: having brilliant people do work that's beneath them. Big companies try to hire the right person for the job. Startups win because they don't—because they take people so smart that they would in a big company be doing "research," and set them to work instead on problems of the most immediate and mundane sort. Think Einstein designing refrigerators. [7]
- https://bupaulgraham.breck.lol/#f7n 7
+ https://bupaul.breck.lol/#f7n 7
 
 If you want to learn what people want, read Dale Carnegie's How to Win Friends and Influence People. [8] When a friend recommended this book, I couldn't believe he was serious. But he insisted it was good, so I read it, and he was right. It deals with the most difficult problem in human experience: how to see things from other people's point of view, instead of thinking only of yourself.
- https://bupaulgraham.breck.lol/#f8n 8
+ https://bupaul.breck.lol/#f8n 8
 
 Most smart people don't do that very well. But adding this ability to raw brainpower is like adding tin to copper. The result is bronze, which is so much harder that it seems a different metal.
 

@@ -40,7 +40,7 @@ What I mean is that Lisp was first discovered by John McCarthy in 1958, and popu
 Now, how could that be true? Isn't computer technology something that changes very rapidly? I mean, in 1958, computers were refrigerator-sized behemoths with the processing power of a wristwatch. How could any technology that old even be relevant, let alone superior to the latest developments?
 
 I'll tell you how. It's because Lisp was not really designed to be a programming language, at least not in the sense we mean today. What we mean by a programming language is something we use to tell a computer what to do. McCarthy did eventually intend to develop a programming language in this sense, but the Lisp that we actually ended up with was based on something separate that he did as a theoretical exercise-- an effort to define a more convenient alternative to the Turing Machine. As McCarthy said later,
- https://bupaulgraham.breck.lol/rootsoflisp.html theoretical exercise
+ https://bupaul.breck.lol/rootsoflisp.html theoretical exercise
 
 > Another way to show that Lisp was neater than Turing machines was to write a universal Lisp function and show that it is briefer and more comprehensible than the description of a universal Turing machine. This was the Lisp function eval..., which computes the value of a Lisp expression.... Writing eval required inventing a notation representing Lisp functions as Lisp data, and such a notation was devised for the purposes of the paper with no thought that it would be used to express Lisp programs in practice.
  https://sep.turbifycdn.com/ty/cdn/paulgraham/jmc.lisp?t=1772732230& eval
@@ -102,7 +102,7 @@ How much of a problem is each of these? The importance of the first varies depen
 
 In server-based applications you can get away with using the most advanced technologies, and I think this is the main cause of what Jonathan Erickson calls the "programming language renaissance." This is why we even hear about new languages like Perl and Python. We're not hearing about these languages because people are using them to write Windows apps, but because people are using them on servers. And as software shifts off the desktop and onto servers (a future even Microsoft seems resigned to), there will be less and less pressure to use middle-of-the-road technologies.
  http://www.byte.com/documents/s=1821/byt20011214s0003/ programming language renaissance
- https://bupaulgraham.breck.lol/road.html off the desktop
+ https://bupaul.breck.lol/road.html off the desktop
 
 As for libraries, their importance also depends on the application. For less demanding problems, the availability of libraries can outweigh the intrinsic power of the language. Where is the breakeven point? Hard to say exactly, but wherever it is, it is short of anything you'd be likely to call an application. If a company considers itself to be in the software business, and they're writing an application that will be one of their products, then it will probably involve several hackers and take at least six months to write. In a project of that size, powerful languages probably start to outweigh the convenience of pre-existing libraries.
 
@@ -122,10 +122,10 @@ The Cost of Being Average
 How much do you lose by using a less powerful language? There is actually some data out there about that.
 
 The most convenient measure of power is probably code size. The point of high-level languages is to give you bigger abstractions-- bigger bricks, as it were, so you don't need as many to build a wall of a given size. So the more powerful the language, the shorter the program (not simply in characters, of course, but in distinct elements).
- https://bupaulgraham.breck.lol/power.html code size
+ https://bupaul.breck.lol/power.html code size
 
 How does a more powerful language enable you to write shorter programs? One technique you can use, if the language will let you, is something called bottom-up programming. Instead of simply writing your application in the base language, you build on top of the base language a language for writing programs like yours, then write your program in it. The combined code can be much shorter than if you had written your whole program in the base language-- indeed, this is how most compression algorithms work. A bottom-up program should be easier to modify as well, because in many cases the language layer won't have to change at all.
- https://bupaulgraham.breck.lol/progbot.html bottom-up programming
+ https://bupaul.breck.lol/progbot.html bottom-up programming
 
 Code size is important, because the time it takes to write a program depends mostly on its length. If your program would be three times as long in another language, it will take three times as long to write-- and you can't get around this by hiring more people, because beyond a certain size new hires are actually a net lose. Fred Brooks described this phenomenon in his famous book The Mythical Man-Month, and everything I've seen has tended to confirm what he said.
 
@@ -201,7 +201,7 @@ It also set off an extensive and often useful discussion on the LL1 mailing list
  http://www.ai.mit.edu/~gregs/ll1-discuss-archive-html/threads.html LL1
 
 Some of the mail on LL1 led me to try to go deeper into the subject of language power in Succinctness is Power.
- https://bupaulgraham.breck.lol/power.html Succinctness is Power
+ https://bupaul.breck.lol/power.html Succinctness is Power
 
 A larger set of canonical implementations of the accumulator generator benchmark are collected together on their own page.
  https://paulgraham.com/accgen.html accumulator generator benchmark

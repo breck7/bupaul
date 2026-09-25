@@ -9,7 +9,7 @@ October 2006
 In the Q &amp; A period after a recent talk, someone asked what made startups fail. After standing there gaping for a few seconds I realized this was kind of a trick question. It's equivalent to asking how to make a startup succeed — if you avoid every cause of failure, you succeed — and that's too big a question to answer on the fly.
 
 Afterwards I realized it could be helpful to look at the problem from this direction. If you have a list of all the things you shouldn't do, you can turn that into a recipe for succeeding just by negating. And this form of list may be more useful in practice. It's easier to catch yourself doing something you shouldn't than always to remember to do something you should. [1]
- https://bupaulgraham.breck.lol/#f1n 1
+ https://bupaul.breck.lol/#f1n 1
 
 In a sense there's just one mistake that kills startups: not making something users want. If you make something users want, you'll probably be fine, whatever else you do or don't do. And if you don't make something users want, then you're dead, whatever else you do or don't do. So really this is a list of 18 things that cause startups not to make something users want. Nearly all failure funnels through that.
 
@@ -32,7 +32,7 @@ Startups prosper in some places and not others. Silicon Valley dominates, then B
 Why is the falloff so sharp? Probably for the same reason it is in other industries. What's the sixth largest fashion center in the US? The sixth largest center for oil, or finance, or publishing? Whatever they are they're probably so far from the top that it would be misleading even to call them centers.
 
 It's an interesting question why cities become startup hubs, but the reason startups prosper in them is probably the same as it is for any industry: that's where the experts are. Standards are higher; people are more sympathetic to what you're doing; the kind of people you want to hire want to live there; supporting industries are there; the people you run into in chance meetings are in the same business. Who knows exactly how these factors combine to boost startups in Silicon Valley and squish them in Detroit, but it's clear they do from the number of startups per capita in each.
- https://bupaulgraham.breck.lol/siliconvalley.html become
+ https://bupaul.breck.lol/siliconvalley.html become
 
 3. Marginal Niche
 =================
@@ -55,7 +55,7 @@ Our startup made software for making online stores. When we started it, there wa
 It seems like the best problems to solve are ones that affect you personally. Apple happened because Steve Wozniak wanted a computer, Google because Larry and Sergey couldn't find stuff online, Hotmail because Sabeer Bhatia and Jack Smith couldn't exchange email at work.
 
 So instead of copying the Facebook, with some variation that the Facebook rightly ignored, look for ideas from the other direction. Instead of starting from companies and working back to the problems they solved, look for problems and imagine the company that might solve them. [2] What do people complain about? What do you wish there was?
- https://bupaulgraham.breck.lol/#f2n 2
+ https://bupaul.breck.lol/#f2n 2
 
 5. Obstinacy
 ============
@@ -96,7 +96,7 @@ How do you pick the right platforms? The usual way is to hire good programmers a
 ========================
 
 Companies of all sizes have a hard time getting software done. It's intrinsic to the medium; software is always 85% done. It takes an effort of will to push through this and get something released to users. [3]
- https://bupaulgraham.breck.lol/#f3n 3
+ https://bupaul.breck.lol/#f3n 3
 
 Startups make all kinds of excuses for delaying their launch. Most are equivalent to the ones people use for procrastinating in everyday life. There's something that needs to happen first. Maybe. But if the software were 100% finished and ready to launch at the push of a button, would they still be waiting?
 
@@ -119,7 +119,7 @@ The early adopters you need to impress are fairly tolerant. They don't expect a 
 ===================================
 
 You can't build things users like without understanding them. I mentioned earlier that the most successful startups seem to have begun by trying to solve a problem their founders had. Perhaps there's a rule here: perhaps you create wealth in proportion to how well you understand the problem you're solving, and the problems you understand best are your own. [4]
- https://bupaulgraham.breck.lol/#f4n 4
+ https://bupaul.breck.lol/#f4n 4
 
 That's just a theory. What's not a theory is the converse: if you're trying to solve problems you don't understand, you're hosed.
 
@@ -139,7 +139,7 @@ Startup funding is measured in time. Every startup that isn't profitable (meanin
 Too little money means not enough to get airborne. What airborne means depends on the situation. Usually you have to advance to a visibly higher level: if all you have is an idea, a working prototype; if you have a prototype, launching; if you're launched, significant growth. It depends on investors, because until you're profitable that's who you have to convince.
 
 So if you take money from investors, you have to take enough to get to the next step, whatever that is. [5] Fortunately you have some control over both how much you spend and what the next step is. We advise startups to set both low, initially: spend practically nothing, and make your initial goal simply to build a solid prototype. This gives you maximum flexibility.
- https://bupaulgraham.breck.lol/#f5n 5
+ https://bupaul.breck.lol/#f5n 5
 
 12. Spending Too Much
 =====================
@@ -158,17 +158,17 @@ We have three general suggestions about hiring: (a) don't do it if you can avoid
 It's obvious how too little money could kill you, but is there such a thing as having too much?
 
 Yes and no. The problem is not so much the money itself as what comes with it. As one VC who spoke at Y Combinator said, "Once you take several million dollars of my money, the clock is ticking." If VCs fund you, they're not going to let you just put the money in the bank and keep operating as two guys living on ramen. They want that money to go to work. [6] At the very least you'll move into proper office space and hire more people. That will change the atmosphere, and not entirely for the better. Now most of your people will be employees rather than founders. They won't be as committed; they'll need to be told what to do; they'll start to engage in office politics.
- https://bupaulgraham.breck.lol/#f6n 6
+ https://bupaul.breck.lol/#f6n 6
 
 When you raise a lot of money, your company moves to the suburbs and has kids.
 
 Perhaps more dangerously, once you take a lot of money it gets harder to change direction. Suppose your initial plan was to sell something to companies. After taking VC money you hire a sales force to do that. What happens now if you realize you should be making this for consumers instead of businesses? That's a completely different kind of selling. What happens, in practice, is that you don't realize that. The more people you have, the more you stay pointed in the same direction.
 
 Another drawback of large investments is the time they take. The time required to raise money grows with the amount. [7] When the amount rises into the millions, investors get very cautious. VCs never quite say yes or no; they just engage you in an apparently endless conversation. Raising VC scale investments is thus a huge time sink — more work, probably, than the startup itself. And you don't want to be spending all your time talking to investors while your competitors are spending theirs building things.
- https://bupaulgraham.breck.lol/#f7n 7
+ https://bupaul.breck.lol/#f7n 7
 
 We advise founders who go on to seek VC money to take the first reasonable deal they get. If you get an offer from a reputable firm at a reasonable valuation with no unusually onerous terms, just take it and get on with building the company. [8] Who cares if you could get a 30% better deal elsewhere? Economically, startups are an all-or-nothing game. Bargain-hunting among investors is a waste of time.
- https://bupaulgraham.breck.lol/#f8n 8
+ https://bupaul.breck.lol/#f8n 8
 
 14. Poor Investor Management
 ============================
@@ -189,7 +189,7 @@ When I said at the beginning that if you make something users want, you'll be fi
 I don't know why it's so hard to make something people want. It seems like it should be straightforward. But you can tell it must be hard by how few startups do it.
 
 Because making something people want is so much harder than making money from it, you should leave business models for later, just as you'd leave some trivial but messy feature for version 2. In version 1, solve the core problem. And the core problem in a startup is how to create wealth (= how much people want something x the number who want it), not how to convert that wealth into money.
- https://bupaulgraham.breck.lol/wealth.html create wealth
+ https://bupaul.breck.lol/wealth.html create wealth
 
 The companies that win are the ones that put users first. Google, for example. They made search work, then worried about how to make money from it. And yet some startup founders still think it's irresponsible not to focus on the business model from the beginning. They're often encouraged in this by investors whose experience comes from less malleable industries.
 
@@ -203,10 +203,10 @@ Nearly all programmers would rather spend their time writing code and have someo
 Start a company? Yech. Most hackers would rather just have ideas. But as Larry and Sergey found, there's not much of a market for ideas. No one trusts an idea till you embody it in a product and use that to grow a user base. Then they'll pay big time.
 
 Maybe this will change, but I doubt it will change much. There's nothing like users for convincing acquirers. It's not just that the risk is decreased. The acquirers are human, and they have a hard time paying a bunch of young guys millions of dollars just for being clever. When the idea is embodied in a company with a lot of users, they can tell themselves they're buying the users rather than the cleverness, and this is easier for them to swallow. [9]
- https://bupaulgraham.breck.lol/#f9n 9
+ https://bupaul.breck.lol/#f9n 9
 
 If you're going to attract users, you'll probably have to get up from your computer and go find some. It's unpleasant work, but if you can make yourself do it you have a much greater chance of succeeding. In the first batch of startups we funded, in the summer of 2005, most of the founders spent all their time building their applications. But there was one who was away half the time talking to executives at cell phone companies, trying to arrange deals. Can you imagine anything more painful for a hacker? [10] But it paid off, because this startup seems the most successful of that group by an order of magnitude.
- https://bupaulgraham.breck.lol/#f10n 10
+ https://bupaul.breck.lol/#f10n 10
 
 If you want to start a startup, you have to face the fact that you can't just hack. At least one hacker will have to spend some of the time doing business stuff.
 
@@ -216,7 +216,7 @@ If you want to start a startup, you have to face the fact that you can't just ha
 Fights between founders are surprisingly common. About 20% of the startups we've funded have had a founder leave. It happens so often that we've reversed our attitude to vesting. We still don't require it, but now we advise founders to vest so there will be an orderly way for people to quit.
 
 A founder leaving doesn't necessarily kill a startup, though. Plenty of successful startups have had that happen. [11] Fortunately it's usually the least committed founder who leaves. If there are three founders and one who was lukewarm leaves, big deal. If you have two and one leaves, or a guy with critical technical skills leaves, that's more of a problem. But even that is survivable. Blogger got down to one person, and they bounced back.
- https://bupaulgraham.breck.lol/#f11n 11
+ https://bupaul.breck.lol/#f11n 11
 
 Most of the disputes I've seen between founders could have been avoided if they'd been more careful about who they started a company with. Most disputes are not due to the situation but the people. Which means they're inevitable. And most founders who've been burned by such disputes probably had misgivings, which they suppressed, when they started the company. Don't suppress misgivings. It's much easier to fix problems before the company is started than after. So don't include your housemate in your startup because he'd feel left out otherwise. Don't start a company with someone you dislike because they have some skill you need and you worry you won't find anyone else. The people are the most important ingredient in a startup, so don't compromise there.
 
@@ -228,10 +228,10 @@ The failed startups you hear most about are the spectacular flameouts. Those are
 Statistically, if you want to avoid failure, it would seem like the most important thing is to quit your day job. Most founders of failed startups don't quit their day jobs, and most founders of successful ones do. If startup failure were a disease, the CDC would be issuing bulletins warning people to avoid day jobs.
 
 Does that mean you should quit your day job? Not necessarily. I'm guessing here, but I'd guess that many of these would-be founders may not have the kind of determination it takes to start a company, and that in the back of their minds, they know it. The reason they don't invest more time in their startup is that they know it's a bad investment. [12]
- https://bupaulgraham.breck.lol/#f12n 12
+ https://bupaul.breck.lol/#f12n 12
 
 I'd also guess there's some band of people who could have succeeded if they'd taken the leap and done it full-time, but didn't. I have no idea how wide this band is, but if the winner/borderline/hopeless progression has the sort of distribution you'd expect, the number of people who could have made it, if they'd quit their day job, is probably an order of magnitude larger than the number who do make it. [13]
- https://bupaulgraham.breck.lol/#f13n 13
+ https://bupaul.breck.lol/#f13n 13
 
 If that's true, most startups that could succeed fail because the founders don't devote their whole efforts to them. That certainly accords with what I see out in the world. Most startups fail because they don't make something people want, and the reason most don't is that they don't try hard enough.
 

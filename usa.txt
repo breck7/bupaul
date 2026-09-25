@@ -15,7 +15,7 @@ How can it be, visitors must wonder. How can the richest country in the world lo
 Oddly enough, it may not be a coincidence. Americans are good at some things and bad at others. We're good at making movies and software, and bad at making cars and cities. And I think we may be good at what we're good at for the same reason we're bad at what we're bad at. We're impatient. In America, if you want to do something, you don't worry that it might come out badly, or upset delicate social balances, or that people might think you're getting above yourself. If you want to do something, as Nike says, just do it.
 
 This works well in some fields and badly in others. I suspect it works in movies and software because they're both messy processes. "Systematic" is the last word I'd use to describe the way good programmers write software. Code is not something they assemble painstakingly after careful planning, like the pyramids. It's something they plunge into, working fast and constantly changing their minds, like a charcoal sketch.
- https://bupaulgraham.breck.lol/gh.html good programmers
+ https://bupaul.breck.lol/gh.html good programmers
 
 In software, paradoxical as it sounds, good craftsmanship means working fast. If you work slowly and meticulously, you merely end up with a very fine implementation of your initial, mistaken idea. Working slowly and meticulously is premature optimization. Better to get a prototype done fast, and see what new ideas it gives you.
 
@@ -67,8 +67,8 @@ If I had to choose between the just-do-it model and the careful model, I'd proba
 Apple is an encouraging example. They've managed to preserve enough of the impatient, hackerly spirit you need to write software. And yet when you pick up a new Apple laptop, well, it doesn't seem American. It's too perfect. It seems as if it must have been made by a Swedish or a Japanese company.
 
 In many technologies, version 2 has higher resolution. Why not in design generally? I think we'll gradually see national characters superseded by occupational characters: hackers in Japan will be allowed to behave with a willfulness that would now seem unJapanese, and products in America will be designed with an insistence on taste that would now seem unAmerican. Perhaps the most successful countries, in the future, will be those most willing to ignore what are now considered national characters, and do each kind of work in the way that works best. Race you.
- https://bupaulgraham.breck.lol/gba.html willfulness
- https://bupaulgraham.breck.lol/taste.html taste
+ https://bupaul.breck.lol/gba.html willfulness
+ https://bupaul.breck.lol/taste.html taste
 
 Notes
 

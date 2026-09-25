@@ -140,7 +140,7 @@ Good design is often strange. Some of the very best work has an uncanny quality:
  http://mathworld.wolfram.com/EulerFormula.html Euler's Formula
  https://paulgraham.com/hunters.html Hunters in the Snow
  https://paulgraham.com/sr71.html SR-71
- https://bupaulgraham.breck.lol/rootsoflisp.html Lisp
+ https://bupaul.breck.lol/rootsoflisp.html Lisp
 
 I'm not sure why. It may just be my own stupidity. A can-opener must seem miraculous to a dog. Maybe if I were smart enough it would seem the most natural thing in the world that ei*pi = -1. It is after all necessarily true.
 
@@ -163,7 +163,7 @@ At any given time there are a few hot topics and a few groups doing great work o
 Good design is often daring. At every period of history, people have believed things that were just ridiculous, and believed them so strongly that you risked ostracism or even violence by saying otherwise.
 
 If our own time were any different, that would be remarkable. As far as I can tell it isn't.
- https://bupaulgraham.breck.lol/say.html isn't
+ https://bupaul.breck.lol/say.html isn't
 
 This problem afflicts not just every era, but in some degree every field. Much Renaissance art was in its time considered shockingly secular: according to Vasari, Botticelli repented and gave up painting, and Fra Bartolommeo and Lorenzo di Credi actually burned some of their work. Einstein's theory of relativity offended many contemporary physicists, and was not fully accepted for decades-- in France, not until the 1950s.
 

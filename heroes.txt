@@ -90,7 +90,7 @@ I used to read a lot of novels when I was younger. I can't read most anymore, be
 John McCarthy
 
 John McCarthy invented Lisp, the field of (or at least the term) artificial intelligence, and was an early member of both of the top two computer science departments, MIT and Stanford. No one would dispute that he's one of the greats, but he's an especial hero to me because of Lisp.
- https://bupaulgraham.breck.lol/rootsoflisp.html Lisp
+ https://bupaul.breck.lol/rootsoflisp.html Lisp
 
 It's hard for us now to understand what a conceptual leap that was at the time. Paradoxically, one of the reasons his achievement is hard to appreciate is that it was so successful. Practically every programming language invented in the last 20 years includes ideas from Lisp, and each year the median language gets more Lisplike.
 
@@ -116,8 +116,8 @@ I wasn't sure whether to include Jobs on this list. A lot of people at Apple see
 There's no name for what Steve Jobs is, because there hasn't been anyone quite like him before. He doesn't design Apple's products himself. Historically the closest analogy to what he does are the great Renaissance patrons of the arts. As the CEO of a company, that makes him unique.
 
 Most CEOs delegate taste to a subordinate. The design paradox means they're choosing more or less at random. But Steve Jobs actually has taste himself — such good taste that he's shown the world how much more important taste is than they realized.
- https://bupaulgraham.breck.lol/taste.html taste
- https://bupaulgraham.breck.lol/gh.html design paradox
+ https://bupaul.breck.lol/taste.html taste
+ https://bupaul.breck.lol/gh.html design paradox
 
 Isaac Newton
 

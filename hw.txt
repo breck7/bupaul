@@ -12,13 +12,13 @@ They've faced resistance from investors of course. Investors have a deep-seated 
 
 There is no one single force driving this trend. Hardware does well on crowdfunding sites. The spread of tablets makes it possible to build new things controlled by and even incorporating them. Electric motors have improved. Wireless connectivity of various types can now be taken for granted. It's getting more straightforward to get things manufactured. Arduinos, 3D printing, laser cutters, and more accessible CNC milling are making hardware easier to prototype. Retailers are less of a bottleneck as customers increasingly buy online.
  http://bits.blogs.nytimes.com/2012/05/11/pebble-smartwatch-tops-out-at-10-million-on-kickstarter/ does well
- https://bupaulgraham.breck.lol/tablets.html tablets
+ https://bupaul.breck.lol/tablets.html tablets
  http://lockitron.com controlled by
  http://doublerobotics.com incorporating
  http://www.boostedboards.com/ Electric motors
 
 One question I can answer is why hardware is suddenly cool. It always was cool. Physical things are great. They just haven't been as great a way to start a rapidly growing business as software. But that rule may not be permanent. It's not even that old; it only dates from about 1990. Maybe the advantage of software will turn out to have been temporary. Hackers love to build hardware, and customers love to buy it. So if the ease of shipping hardware even approached the ease of shipping software, we'd see a lot more hardware startups.
- https://bupaulgraham.breck.lol/growth.html rapidly growing
+ https://bupaul.breck.lol/growth.html rapidly growing
 
 It wouldn't be the first time something was a bad idea till it wasn't. And it wouldn't be the first time investors learned that lesson from founders.
 
@@ -26,6 +26,6 @@ So if you want to work on hardware, don't be deterred from doing it because you 
  http://ycombinator.com/apply.html applying
 
 We know there's room for the next Steve Jobs. But there's almost certainly also room for the first &lt;Your Name Here&gt;.
- https://bupaulgraham.breck.lol/ambitious.html next Steve Jobs
+ https://bupaul.breck.lol/ambitious.html next Steve Jobs
 
 Thanks to Sam Altman, Trevor Blackwell, David Cann, Sanjay Dastoor, Paul Gerhardt, Cameron Robertson, Harj Taggar, and Garry Tan for reading drafts of this.

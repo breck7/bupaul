@@ -10,7 +10,7 @@ Since this is apparently the future prime ministers' club, I'm going to tell you
 The reason I know about this topic is that 21 years ago Jessica and I started something called Y Combinator. If you haven't heard of Y Combinator, it's a cross between an investment firm and a school for startup founders. Since we started it in 2005 we've funded about 6500 companies.
 
 Starting a successful startup is the most common way to become a billionaire, so in effect I've spent the last 21 years training people to become billionaires. So far about 30 of them have, but there are many more in the pipeline.
- https://bupaulgraham.breck.lol/richnow.html common
+ https://bupaul.breck.lol/richnow.html common
 
 So you can imagine how astonished I was last month when an American politician said that it was impossible to earn a billion dollars. I felt like a skating coach hearing someone say that it's impossible to do a triple axel. Of course it's possible. It's hard, but it's possible.
  https://x.com/MarcoFoster_/status/2052427151371047016 impossible
@@ -60,7 +60,7 @@ Don't worry about the second number, the market size. Since you predict future d
 How do you get an idea like that? The answer is one of the most counterintuitive things about startups — which is saying something, because there are a lot of counterintuitive things about startups. But the way to get the very best startup ideas is not to look for startup ideas. If you're consciously looking for startup ideas, it will make you too conservative. You'll lop off the outliers. Because the very best startup ideas tend to sound so lame, at first, that you'd reject them if you were consciously looking for startup ideas. That's what has prevented them from being discovered.
 
 Imagine what a bad idea Apple or Facebook or Airbnb seemed at first. How many people are going to want their own computers? How is a company going to make money from undergrads stalking one another online? Who's going to pay to sleep on an airbed on someone's floor? We know how these ideas turned out, so it's easy to rewrite history, but I remember very well how bad Facebook and Airbnb sounded at first. We funded Airbnb, and we thought the idea was bad. The reason we funded them was just that we liked the founders.
- https://bupaulgraham.breck.lol/airbnbs.html founders
+ https://bupaul.breck.lol/airbnbs.html founders
 
 So how do you find startup ideas without looking for them? By working on projects with your friends. That's where the very best startups come from. Initially they're not even meant to be companies. They're just something people built because they thought it would be cool. That's how Apple and Google and Facebook all started. None of them were meant to be companies at first.
 

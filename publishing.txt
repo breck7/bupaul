@@ -6,7 +6,7 @@ September 2009
 Publishers of all types, from news to music, are unhappy that consumers won't pay for content anymore. At least, that's how they see it.
 
 In fact consumers never really were paying for content, and publishers weren't really selling it either. If the content was what they were selling, why has the price of books or music or movies always depended mostly on the format? Why didn't better content cost more? [1]
- https://bupaulgraham.breck.lol/#f1n 1
+ https://bupaul.breck.lol/#f1n 1
 
 A copy of Time costs $5 for 58 pages, or 8.6 cents a page. The Economist costs $7 for 86 pages, or 8.1 cents a page. Better journalism is actually slightly cheaper.
 
@@ -34,7 +34,7 @@ Is software a counterexample? People pay a lot for desktop software, and that's 
  http://www.bsa.org/country/News%20and%20Events/News%20Archives/en/2009/en-08312009-mueller.aspx?sc_lang=en trouble
 
 That's why there's a separate word, "content," for information that's not software. Software is a different business. Software and content blur together in some of the most lightweight software, like casual games. But those are usually free. To make money the way software companies do, publishers would have to become software companies, and being publishers gives them no particular head start in that domain. [2]
- https://bupaulgraham.breck.lol/#f2n 2
+ https://bupaul.breck.lol/#f2n 2
 
 The most promising countertrend is the premium cable channel. People still pay for those. But broadcasting isn't publishing: you're not selling a copy of something. That's one reason the movie business hasn't seen their revenues decline the way the news and music businesses have. They only have one foot in publishing.
 
@@ -53,15 +53,15 @@ I'm not claiming that potential will be realized by the existing players. The op
  http://ycombinator.com/rfs1.html optimal
 
 It's harder to say what will happen to movies. They could evolve into ads. Or they could return to their roots and make going to the theater a treat. If they made the experience good enough, audiences might start to prefer it to watching pirated movies at home. [3] Or maybe the movie business will dry up, and the people working in it will go to work for game developers.
- https://bupaulgraham.breck.lol/#f3n 3
+ https://bupaul.breck.lol/#f3n 3
 
 I don't know how big embodying information in physical form will be. It may be surprisingly large; people overvalue physical stuff. There should remain some market for printed books, at least.
- https://bupaulgraham.breck.lol/stuff.html physical stuff
+ https://bupaul.breck.lol/stuff.html physical stuff
 
 I can see the evolution of book publishing in the books on my shelves. Clearly at some point in the 1960s the big publishing houses started to ask: how cheaply can we make books before people refuse to buy them? The answer turned out to be one step short of phonebooks. As long as it isn't floppy, consumers still perceive it as a book.
 
 That worked as long as buying printed books was the only way to read them. If printed books are optional, publishers will have to work harder to entice people to buy them. There should be some market, but it's hard to foresee how big, because its size will depend not on macro trends like the amount people read, but on the ingenuity of individual publishers. [4]
- https://bupaulgraham.breck.lol/#f4n 4
+ https://bupaul.breck.lol/#f4n 4
 
 Some magazines may thrive by focusing on the magazine as a physical object. Fashion magazines could be made lush in a way that would be hard to match digitally, at least for a while. But this is probably not an option for most magazines.
 

@@ -4,7 +4,7 @@ The Fatal Pinch
 December 2014
 
 Many startups go through a point a few months before they die where although they have a significant amount of money in the bank, they're also losing a lot each month, and revenue growth is either nonexistent or mediocre. The company has, say, 6 months of runway. Or to put it more brutally, 6 months before they're out of business. They expect to avoid that by raising more from investors. [1]
- https://bupaulgraham.breck.lol/#f1n 1
+ https://bupaul.breck.lol/#f1n 1
 
 That last sentence is the fatal one.
 
@@ -19,7 +19,7 @@ One of the things that makes the fatal pinch so dangerous is that it's self-rein
 Now that you know about the fatal pinch, how do you avoid it? Y Combinator tells founders who raise money to act as if it's the last they'll ever get. Because the self-reinforcing nature of this situation works the other way too: the less you need further investment, the easier it is to get.
 
 What do you do if you're already in the fatal pinch? The first step is to re-evaluate the probability of raising more money. I will now, by an amazing feat of clairvoyance, do this for you: the probability is zero. [2]
- https://bupaulgraham.breck.lol/#f2n 2
+ https://bupaul.breck.lol/#f2n 2
 
 Three options remain: you can shut down the company, you can increase how much you make, and you can decrease how much you spend.
 
@@ -28,14 +28,14 @@ You should shut down the company if you're certain it will fail no matter what y
 Companies rarely have to fail though. What I'm really doing here is giving you the option of admitting you've already given up.
 
 If you don't want to shut down the company, that leaves increasing revenues and decreasing expenses. In most startups, expenses = people, and decreasing expenses = firing people. [3] Deciding to fire people is usually hard, but there's one case in which it shouldn't be: when there are people you already know you should fire but you're in denial about it. If so, now's the time.
- https://bupaulgraham.breck.lol/#f3n 3
+ https://bupaul.breck.lol/#f3n 3
 
 If that makes you profitable, or will enable you to make it to profitability on the money you have left, you've avoided the immediate danger.
 
 Otherwise you have three options: you either have to fire good people, get some or all of the employees to take less salary for a while, or increase revenues.
 
 Getting people to take less salary is a weak solution that will only work when the problem isn't too bad. If your current trajectory won't quite get you to profitability but you can get over the threshold by cutting salaries a little, you might be able to make the case to everyone for doing it. Otherwise you're probably just postponing the problem, and that will be obvious to the people whose salaries you're proposing to cut. [4]
- https://bupaulgraham.breck.lol/#f4n 4
+ https://bupaul.breck.lol/#f4n 4
 
 Which leaves two options, firing good people and making more money. While trying to balance them, keep in mind the eventual goal: to be a successful product company in the sense of having a single thing lots of people use.
 
@@ -48,7 +48,7 @@ Another way to make money differently is to sell different things, and in partic
 Be ruthlessly mercenary when you start doing this, though. You're trying to save your company from death here, so make customers pay a lot, quickly. And to the extent you can, try to avoid the worst pitfalls of consulting. The ideal thing might be if you built a precisely defined derivative version of your product for the customer, and it was otherwise a straight product sale. You keep the IP and no billing by the hour.
 
 In the best case, this consultingish work may not be just something you do to survive, but may turn out to be the thing-that-doesn't-scale that defines your company. Don't expect it to be, but as you dive into individual users' needs, keep your eyes open for narrow openings that have wide vistas beyond.
- https://bupaulgraham.breck.lol/ds.html thing-that-doesn't-scale
+ https://bupaul.breck.lol/ds.html thing-that-doesn't-scale
 
 There is usually so much demand for custom work that unless you're really incompetent there has to be some point down the slope of consulting at which you can survive. But I didn't use the term slippery slope by accident; customers' insatiable demand for custom work will always be pushing you toward the bottom. So while you'll probably survive, the problem now becomes to survive with the least damage and distraction.
 

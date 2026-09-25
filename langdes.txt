@@ -81,7 +81,7 @@ One thing we'll need is support for the new way that server-based apps get relea
 You know how you can design programs to be debuggable? Well, server-based software likewise has to be designed to be changeable. You have to be able to change it easily, or at least to know what is a small change and what is a momentous one.
 
 Another thing that might turn out to be useful for server based software, surprisingly, is continuations. In Web-based software you can use something like continuation-passing style to get the effect of subroutines in the inherently stateless world of a Web session. Maybe it would be worthwhile having actual continuations, if it was not too expensive.
- https://bupaulgraham.breck.lol/lwba.html subroutines
+ https://bupaul.breck.lol/lwba.html subroutines
 
 4. What New Abstractions Are Left to Discover?
 ==============================================
@@ -159,7 +159,7 @@ It may turn out that byte code is not a win, in the end. Sun and Microsoft seem 
 This is just a guess, but my guess is that the winning model for most applications will be purely server-based. Designing software that works on the assumption that everyone will have your client is like designing a society on the assumption that everyone will just be honest. It would certainly be convenient, but you have to assume it will never happen.
 
 I think there will be a proliferation of devices that have some kind of Web access, and all you'll be able to assume about them is that they can support simple html and forms. Will you have a browser on your cell phone? Will there be a phone in your palm pilot? Will your blackberry get a bigger screen? Will you be able to browse the Web on your gameboy? Your watch? I don't know. And I don't have to know if I bet on everything just being on the server. It's just so much more robust to have all the brains on the server.
- https://bupaulgraham.breck.lol/road.html brains on the server
+ https://bupaul.breck.lol/road.html brains on the server
 
 2. Object-Oriented Programming.
 ===============================

@@ -26,7 +26,7 @@ Trevor graduated at about the same time the acquisition closed, so in the course
  http://ycombinator.com/viaweb/tlbwebdesign.html Trevino Bagwell
 
 Back in the 90s, to get users you had to get mentioned in magazines and newspapers. There were not the same ways to get found online that there are today. So we used to pay a PR firm $16,000 a month to get us mentioned in the press. Fortunately reporters liked us.
- https://bupaulgraham.breck.lol/submarine.html PR firm
+ https://bupaul.breck.lol/submarine.html PR firm
  http://ycombinator.com/viaweb/presquot.html liked us
 
 In our advice about getting traffic from search engines (I don't think the term SEO had been coined yet), we say there are only 7 that matter: Yahoo, AltaVista, Excite, WebCrawler, InfoSeek, Lycos, and HotBot. Notice anything missing? Google was incorporated that September.

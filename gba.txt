@@ -47,7 +47,7 @@ It is greatly to America's advantage that it is a congenial atmosphere for the r
 In our world some of the most characteristic solutions are not far removed from practical jokes. IBM was no doubt rather surprised by the consequences of the licensing deal for DOS, just as the hypothetical "adversary" must be when Michael Rabin solves a problem by redefining it as one that's easier to solve.
 
 Smart-alecks have to develop a keen sense of how much they can get away with. And lately hackers have sensed a change in the atmosphere. Lately hackerliness seems rather frowned upon.
- https://bupaulgraham.breck.lol/say.html get away
+ https://bupaul.breck.lol/say.html get away
 
 To hackers the recent contraction in civil liberties seems especially ominous. That must also mystify outsiders. Why should we care especially about civil liberties? Why programmers, more than dentists or salesmen or landscapers?
 

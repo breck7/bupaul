@@ -113,7 +113,7 @@ So maybe the standard option deal needs to be tweaked slightly. Maybe options sh
 ===========
 
 What made the options valuable, for the most part, is that they were options on the stock of startups. Startups were not of course a creation of the Bubble, but they were more visible during the Bubble than ever before.
- https://bupaulgraham.breck.lol/start.html startups
+ https://bupaul.breck.lol/start.html startups
 
 One thing most people did learn about for the first time during the Bubble was the startup created with the intention of selling it. Originally a startup meant a small company that hoped to grow into a big one. But increasingly startups are evolving into a vehicle for developing technology on spec.
 
@@ -144,7 +144,7 @@ Silicon Valley may not be the next Paris or London, but it is at least the next 
 During the Bubble, optimistic analysts used to justify high price to earnings ratios by saying that technology was going to increase productivity dramatically. They were wrong about the specific companies, but not so wrong about the underlying principle. I think one of the big trends we'll see in the coming century is a huge increase in productivity.
 
 Or more precisely, a huge increase in variation in productivity. Technology is a lever. It doesn't add; it multiplies. If the present range of productivity is 0 to 100, introducing a multiple of 10 increases the range from 0 to 1000.
- https://bupaulgraham.breck.lol/gh.html variation
+ https://bupaul.breck.lol/gh.html variation
 
 One upshot of which is that the companies of the future may be surprisingly small. I sometimes daydream about how big you could grow a company (in revenues) without ever having more than ten people. What would happen if you outsourced everything except product development? If you tried this experiment, I think you'd be surprised at how far you could get. As Fred Brooks pointed out, small groups are intrinsically more productive, because the internal friction in a group grows as the square of its size.
 

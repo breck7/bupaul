@@ -49,7 +49,7 @@ Several people used that word "married." It's a far more intense relationship th
 ===============================
 
 Just as the relationship between cofounders is more intense than it usually is between coworkers, so is the relationship between the founders and the company. Running a startup is not like having a job or being a student, because it never stops. This is so foreign to most people's experience that they don't get it till it happens. [1]
- https://bupaulgraham.breck.lol/#f1n 1
+ https://bupaul.breck.lol/#f1n 1
 
 > I didn't realize I would spend almost every waking moment either working or thinking about our startup. You enter a whole different way of life when it's your company vs. working for someone else's company.
 
@@ -124,7 +124,7 @@ You need persistence because everything takes longer than you expect. A lot of p
 > I'm continually surprised by how long everything can take. Assuming your product doesn't experience the explosive growth that very few products do, everything from development to dealmaking (especially dealmaking) seems to take 2-3x longer than I always imagine.
 
 One reason founders are surprised is that because they work fast, they expect everyone else to. There's a shocking amount of shear stress at every point where a startup touches a more bureaucratic organization, like a big company or a VC fund. That's why fundraising and the enterprise market kill and maim so many startups. [2]
- https://bupaulgraham.breck.lol/#f2n 2
+ https://bupaul.breck.lol/#f2n 2
 
 But I think the reason most founders are surprised by how long it takes is that they're overconfident. They think they're going to be an instant success, like YouTube or Facebook. You tell them only 1 out of 100 successful startups has a trajectory like that, and they all think "we're going to be that 1."
 
@@ -169,7 +169,7 @@ Why do people take too long on the first version? Pride, mostly. They hate to re
 > Doing something "simple" at first glance does not mean you aren't doing something meaningful, defensible, or valuable.
 
 Don't worry what people will say. If your first version is so impressive that trolls don't make fun of it, you waited too long to launch. [3]
- https://bupaulgraham.breck.lol/#f3n 3
+ https://bupaul.breck.lol/#f3n 3
 
 One founder said this should be your approach to all programming, not just startups, and I tend to agree.
 
@@ -242,7 +242,7 @@ A lot of founders complained about how hard it was to get users, though.
 This is a complicated topic. When you can't get users, it's hard to say whether the problem is lack of exposure, or whether the product's simply bad. Even good products can be blocked by switching or integration costs:
 
 > Getting people to use a new service is incredibly difficult. This is especially true for a service that other companies can use, because it requires their developers to do work. If you're small, they don't think it is urgent. [4]
- https://bupaulgraham.breck.lol/#f4n 4
+ https://bupaul.breck.lol/#f4n 4
 
 The sharpest criticism of YC came from a founder who said we didn't focus enough on customer acquisition:
 
@@ -283,7 +283,7 @@ Angels are a bit better than VCs, because they usually have startup experience t
 Why are founders surprised that VCs are clueless? I think it's because they seem so formidable.
 
 The reason VCs seem formidable is that it's their profession to. You get to be a VC by convincing asset managers to trust you with hundreds of millions of dollars. How do you do that? You have to seem confident, and you have to seem like you understand technology. [5]
- https://bupaulgraham.breck.lol/#f5n 5
+ https://bupaul.breck.lol/#f5n 5
 
 15. You May Have to Play Games
 ==============================
@@ -297,7 +297,7 @@ This is the thing that has surprised me most about YC founders' experiences. Thi
 > A lot of what startup founders do is just posturing. It works.
 
 VCs themselves have no idea of the extent to which the startups they like are the ones that are best at selling themselves to VCs. [6] It's exactly the same phenomenon we saw a step earlier. VCs get money by seeming confident to LPs, and founders get money by seeming confident to VCs.
- https://bupaulgraham.breck.lol/#f6n 6
+ https://bupaul.breck.lol/#f6n 6
 
 16. Luck Is a Big Factor
 ========================

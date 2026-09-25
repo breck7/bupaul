@@ -32,7 +32,7 @@ The way to create something beautiful is often to make subtle tweaks to somethin
 So why do universities and research labs continue to judge hackers by publications? For the same reason that "scholastic aptitude" gets measured by simple-minded standardized tests, or the productivity of programmers gets measured in lines of code. These tests are easy to apply, and there is nothing so tempting as an easy test that kind of works.
 
 Measuring what hackers are actually trying to do, designing beautiful software, would be much more difficult. You need a good sense of design to judge good design. And there is no correlation, except possibly a negative one, between people's ability to recognize good design and their confidence that they can.
- https://bupaulgraham.breck.lol/taste.html sense of design
+ https://bupaul.breck.lol/taste.html sense of design
  http://www.apa.org/journals/features/psp7761121.pdf negative
 
 The only external test is time. Over time, beautiful things tend to thrive, and ugly things tend to get discarded. Unfortunately, the amounts of time involved can be longer than human lifetimes. Samuel Johnson said it took a hundred years for a writer's reputation to converge. You have to wait for the writer's influential friends to die, and then for all their followers to die.
@@ -109,7 +109,7 @@ Here's a case where we can learn from painting. I think hacking should work this
 Everyone by now presumably knows about the danger of premature optimization. I think we should be just as worried about premature design-- deciding too early what a program should do.
 
 The right tools can help us avoid this danger. A good programming language should, like oil paint, make it easy to change your mind. Dynamic typing is a win here because you don't have to commit to specific data representations up front. But the key to flexibility, I think, is to make the language very abstract. The easiest program to change is one that's very short.
- https://bupaulgraham.breck.lol/power.html abstract
+ https://bupaul.breck.lol/power.html abstract
 
 This sounds like a paradox, but a great painting has to be better than it has to be. For example, when Leonardo painted the portrait of Ginevra de Benci in the National Gallery, he put a juniper bush behind her head. In it he carefully painted each individual leaf. Many painters might have thought, this is just something to put in the background to frame her head. No one will look that closely at it.
  https://paulgraham.com/ginevra.html Ginevra de Benci

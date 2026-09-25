@@ -232,7 +232,7 @@ If I didn't know Lisp, reading this would set me asking questions. A language th
 As long as that idea is still floating around, I think hackers will be receptive enough to a new Lisp, even if it is called Lisp. But this Lisp must be a hacker's language, like the classic Lisps of the 1970s. It must be terse, simple, and hackable. And it must have powerful libraries for doing what hackers want to do now.
 
 In the matter of libraries I think there is room to beat languages like Perl and Python at their own game. A lot of the new applications that will need to be written in the coming years will be server-based applications. There's no reason a new Lisp shouldn't have string libraries as good as Perl, and if this new Lisp also had powerful libraries for server-based applications, it could be very popular. Real hackers won't turn up their noses at a new tool that will let them solve hard problems with a few library calls. Remember, hackers are lazy.
- https://bupaulgraham.breck.lol/road.html server-based applications
+ https://bupaul.breck.lol/road.html server-based applications
 
 It could be an even bigger win to have core language support for server-based applications. For example, explicit support for programs with multiple users, or data ownership at the level of type tags.
 
@@ -241,7 +241,7 @@ Server-based applications also give us the answer to the question of what this n
 12 The Dream Language
 
 By way of summary, let's try describing the hacker's dream language. The dream language is beautiful, clean, and terse. It has an interactive toplevel that starts up fast. You can write programs to solve common problems with very little code. Nearly all the code in any program you write is code that's specific to your application. Everything else has been done for you.
- https://bupaulgraham.breck.lol/taste.html beautiful
+ https://bupaul.breck.lol/taste.html beautiful
 
 The syntax of the language is brief to a fault. You never have to type an unnecessary character, or even to use the shift key much.
 

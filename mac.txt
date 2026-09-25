@@ -4,7 +4,7 @@ Return of the Mac
 March 2005
 
 All the best hackers I know are gradually switching to Macs. My friend Robert said his whole research group at MIT recently bought themselves Powerbooks. These guys are not the graphic designers and grandmas who were buying Macs at Apple's low point in the mid 1990s. They're about as hardcore OS hackers as you can get.
- https://bupaulgraham.breck.lol/gba.html hackers
+ https://bupaul.breck.lol/gba.html hackers
 
 The reason, of course, is OS X. Powerbooks are beautifully designed and run FreeBSD. What more do you need to know?
 
@@ -14,7 +14,7 @@ I got a Powerbook at the end of last year. When my IBM Thinkpad's hard disk died
 For most of us, it's not a switch to Apple, but a return. Hard as this was to believe in the mid 90s, the Mac was in its time the canonical hacker's computer.
 
 In the fall of 1983, the professor in one of my college CS classes got up and announced, like a prophet, that there would soon be a computer with half a MIPS of processing power that would fit under an airline seat and cost so little that we could save enough to buy one from a summer job. The whole room gasped. And when the Mac appeared, it was even better than we'd hoped. It was small and powerful and cheap, as promised. But it was also something we'd never considered a computer could be: fabulously well designed.
- https://bupaulgraham.breck.lol/taste.html designed
+ https://bupaul.breck.lol/taste.html designed
 
 I had to have one. And I wasn't alone. In the mid to late 1980s, all the hackers I knew were either writing software for the Mac, or wanted to. Every futon sofa in Cambridge seemed to have the same fat white book lying open on it. If you turned it over, it said "Inside Macintosh."
 
@@ -34,7 +34,7 @@ In 1994 my friend Koling wanted to talk to his girlfriend in Taiwan, and to save
 If you want to know what ordinary people will be doing with computers in ten years, just walk around the CS department at a good university. Whatever they're doing, you'll be doing.
 
 In the matter of "platforms" this tendency is even more pronounced, because novel software originates with great hackers, and they tend to write it first for whatever computer they personally use. And software sells hardware. Many if not most of the initial sales of the Apple II came from people who bought one to run VisiCalc. And why did Bricklin and Frankston write VisiCalc for the Apple II? Because they personally liked it. They could have chosen any machine to make into a star.
- https://bupaulgraham.breck.lol/gh.html great hackers
+ https://bupaul.breck.lol/gh.html great hackers
 
 If you want to attract hackers to write software that will sell your hardware, you have to make it something that they themselves use. It's not enough to make it "open." It has to be open and good.
 

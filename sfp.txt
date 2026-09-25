@@ -10,7 +10,7 @@ Of the startups that needed further funding, I believe all have either closed a 
 We would have been happy if just one of the eight seemed promising by the end of the summer. What's going on? Did some kind of anomaly make this summer's applicants especially good? We worry about that, but we can't think of one. We'll find out this winter.
 
 The whole summer was full of surprises. The best was that the hypothesis we were testing seems to be correct. Young hackers can start viable companies. This is good news for two reasons: (a) it's an encouraging thought, and (b) it means that Y Combinator, which is predicated on the idea, is not hosed.
- https://bupaulgraham.breck.lol/hiring.html hypothesis
+ https://bupaul.breck.lol/hiring.html hypothesis
 
 Age
 

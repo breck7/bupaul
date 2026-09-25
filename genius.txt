@@ -34,14 +34,14 @@ The bus ticket theory is similar to Carlyle's famous definition of genius as an 
 So what matters? You can never be sure. It's precisely because no one can tell in advance which paths are promising that you can discover new ideas by working on what you're interested in.
 
 But there are some heuristics you can use to guess whether an obsession might be one that matters. For example, it's more promising if you're creating something, rather than just consuming something someone else creates. It's more promising if something you're interested in is difficult, especially if it's more difficult for other people than it is for you. And the obsessions of talented people are more likely to be promising. When talented people become interested in random things, they're not truly random.
- https://bupaulgraham.breck.lol/work.html more difficult for other people
+ https://bupaul.breck.lol/work.html more difficult for other people
 
 But you can never be sure. In fact, here's an interesting idea that's also rather alarming if it's true: it may be that to do great work, you also have to waste a lot of time.
 
 In many different areas, reward is proportionate to risk. If that rule holds here, then the way to find paths that lead to truly great work is to be willing to expend a lot of effort on things that turn out to be every bit as unpromising as they seem.
 
 I'm not sure if this is true. On one hand, it seems surprisingly difficult to waste your time so long as you're working hard on something interesting. So much of what you do ends up being useful. But on the other hand, the rule about the relationship between risk and reward is so powerful that it seems to hold wherever risk occurs. Newton's case, at least, suggests that the risk/reward rule holds here. He's famous for one particular obsession of his that turned out to be unprecedentedly fruitful: using math to describe the world. But he had two other obsessions, alchemy and theology, that seem to have been complete wastes of time. He ended up net ahead. His bet on what we now call physics paid off so well that it more than compensated for the other two. But were the other two necessary, in the sense that he had to take big risks to make such big discoveries? I don't know.
- https://bupaulgraham.breck.lol/disc.html Newton's
+ https://bupaul.breck.lol/disc.html Newton's
 
 Here's an even more alarming idea: might one make all bad bets? It probably happens quite often. But we don't know how often, because these people don't become famous.
 
@@ -83,7 +83,7 @@ Notes
 On the other hand, anyone quoting the preceding paragraph to justify not getting a job is probably mistaken.
 
 [4] 1709 Darwin is to time what the Milanese Leonardo is to space.
- https://bupaulgraham.breck.lol/cities.html Milanese Leonardo
+ https://bupaul.breck.lol/cities.html Milanese Leonardo
 
 [5] "An infinite capacity for taking pains" is a paraphrase of what Carlyle wrote. What he wrote, in his History of Frederick the Great, was "... it is the fruit of 'genius' (which means transcendent capacity of taking trouble, first of all)...." Since the paraphrase seems the name of the idea at this point, I kept it.
 

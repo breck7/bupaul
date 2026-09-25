@@ -6,7 +6,7 @@ May 2002
 "The quantity of meaning compressed into a small space by algebraic signs, is another circumstance that facilitates the reasonings we are accustomed to carry on by their aid."- Charles Babbage, quoted in Iverson's Turing Award Lecture
 
 In the discussion about issues raised by Revenge of the Nerds on the LL1 mailing list, Paul Prescod wrote something that stuck in my mind.
- https://bupaulgraham.breck.lol/icad.html Revenge of the Nerds
+ https://bupaul.breck.lol/icad.html Revenge of the Nerds
 
 > Python's goal is regularity and readability, not succinctness.
 
