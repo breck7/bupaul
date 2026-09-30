@@ -1,7 +1,8 @@
 importOnly
 baseUrl https://bupaul.breck.lol/
-openGraphImage bupaul-poster.jpg
+openGraphImage paul-hedcut.png
 blog.parsers
+editBaseUrl https://github.com/breck7/bupaul/blob/main/
 bu.scroll
 replace BU_SITE_NAME bupaul
 replace BU_SITE_DESCRIPTION boo paul graham.  made by @breckyunits
