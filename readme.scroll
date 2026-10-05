@@ -2,6 +2,8 @@ title bupaul — Archive
 description boo paul graham.  made by @breckyunits
 permalink index.html
 canonicalUrl https://paulgraham.com/
+baseUrl https://bupaul.breck.lol/
+openGraphImage paul-hedcut.png
 buildHtml
 _head.scroll
 
